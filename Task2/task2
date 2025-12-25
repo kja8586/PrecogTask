@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=8:ngpus=1
+#PBS -l walltime=48:00:00
+#PBS -N tensorflow_job
+#PBS -j oe
+#PBS -o /mnt/sdb/users/kja8586/precog/task2.log
+
+# Load the Conda environment
+source /opt/anaconda3/bin/activate tfpy-gpu
+
+# Run your Python script
+python3 /mnt/sdb/users/kja8586/precog/task2.py
+
+# Deactivate the Conda environment
+conda deactivate

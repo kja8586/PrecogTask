@@ -1,0 +1,3128 @@
+Starting modules.sh
+Shell: bash
+Sourcing /usr/share/modules/init/bash
+Finished modules.sh
+Epoch: 1/50 | Batch: 0/125 | BatchLoss: 4.60012
+Epoch: 1/50 | Batch: 10/125 | BatchLoss: 5.84970
+Epoch: 1/50 | Batch: 20/125 | BatchLoss: 4.28326
+Epoch: 1/50 | Batch: 30/125 | BatchLoss: 3.84209
+Epoch: 1/50 | Batch: 40/125 | BatchLoss: 3.27254
+Epoch: 1/50 | Batch: 50/125 | BatchLoss: 2.77765
+Epoch: 1/50 | Batch: 60/125 | BatchLoss: 2.34650
+Epoch: 1/50 | Batch: 70/125 | BatchLoss: 1.60967
+Epoch: 1/50 | Batch: 80/125 | BatchLoss: 1.14838
+Epoch: 1/50 | Batch: 90/125 | BatchLoss: 0.78649
+Epoch: 1/50 | Batch: 100/125 | BatchLoss: 0.60445
+Epoch: 1/50 | Batch: 110/125 | BatchLoss: 0.33205
+Epoch: 1/50 | Batch: 120/125 | BatchLoss: 0.16579
+Epoch: 1/50 | Loss: 2.20359, Accuracy: 51.01%, Precision: 0.56, Recall: 0.51, F1 score: 0.52
+Epoch: 2/50 | Batch: 0/125 | BatchLoss: 0.10918
+Epoch: 2/50 | Batch: 10/125 | BatchLoss: 0.08927
+Epoch: 2/50 | Batch: 20/125 | BatchLoss: 0.04817
+Epoch: 2/50 | Batch: 30/125 | BatchLoss: 0.02568
+Epoch: 2/50 | Batch: 40/125 | BatchLoss: 0.01759
+Epoch: 2/50 | Batch: 50/125 | BatchLoss: 0.01182
+Epoch: 2/50 | Batch: 60/125 | BatchLoss: 0.01261
+Epoch: 2/50 | Batch: 70/125 | BatchLoss: 0.00941
+Epoch: 2/50 | Batch: 80/125 | BatchLoss: 0.00500
+Epoch: 2/50 | Batch: 90/125 | BatchLoss: 0.00570
+Epoch: 2/50 | Batch: 100/125 | BatchLoss: 0.00485
+Epoch: 2/50 | Batch: 110/125 | BatchLoss: 0.00449
+Epoch: 2/50 | Batch: 120/125 | BatchLoss: 0.00392
+Epoch: 2/50 | Loss: 0.02009, Accuracy: 99.78%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 3/50 | Batch: 0/125 | BatchLoss: 0.00383
+Epoch: 3/50 | Batch: 10/125 | BatchLoss: 0.00283
+Epoch: 3/50 | Batch: 20/125 | BatchLoss: 0.00227
+Epoch: 3/50 | Batch: 30/125 | BatchLoss: 0.00206
+Epoch: 3/50 | Batch: 40/125 | BatchLoss: 0.00213
+Epoch: 3/50 | Batch: 50/125 | BatchLoss: 0.00164
+Epoch: 3/50 | Batch: 60/125 | BatchLoss: 0.00185
+Epoch: 3/50 | Batch: 70/125 | BatchLoss: 0.00154
+Epoch: 3/50 | Batch: 80/125 | BatchLoss: 0.00182
+Epoch: 3/50 | Batch: 90/125 | BatchLoss: 0.00142
+Epoch: 3/50 | Batch: 100/125 | BatchLoss: 0.00156
+Epoch: 3/50 | Batch: 110/125 | BatchLoss: 0.00110
+Epoch: 3/50 | Batch: 120/125 | BatchLoss: 0.00100
+Epoch: 3/50 | Loss: 0.00176, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 4/50 | Batch: 0/125 | BatchLoss: 0.00105
+Epoch: 4/50 | Batch: 10/125 | BatchLoss: 0.00091
+Epoch: 4/50 | Batch: 20/125 | BatchLoss: 0.00100
+Epoch: 4/50 | Batch: 30/125 | BatchLoss: 0.00079
+Epoch: 4/50 | Batch: 40/125 | BatchLoss: 0.00087
+Epoch: 4/50 | Batch: 50/125 | BatchLoss: 0.00087
+Epoch: 4/50 | Batch: 60/125 | BatchLoss: 0.00067
+Epoch: 4/50 | Batch: 70/125 | BatchLoss: 0.00083
+Epoch: 4/50 | Batch: 80/125 | BatchLoss: 0.00067
+Epoch: 4/50 | Batch: 90/125 | BatchLoss: 0.00073
+Epoch: 4/50 | Batch: 100/125 | BatchLoss: 0.00064
+Epoch: 4/50 | Batch: 110/125 | BatchLoss: 0.00058
+Epoch: 4/50 | Batch: 120/125 | BatchLoss: 0.00050
+Epoch: 4/50 | Loss: 0.00075, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 5/50 | Batch: 0/125 | BatchLoss: 0.00062
+Epoch: 5/50 | Batch: 10/125 | BatchLoss: 0.00047
+Epoch: 5/50 | Batch: 20/125 | BatchLoss: 0.00040
+Epoch: 5/50 | Batch: 30/125 | BatchLoss: 0.00053
+Epoch: 5/50 | Batch: 40/125 | BatchLoss: 0.00039
+Epoch: 5/50 | Batch: 50/125 | BatchLoss: 0.00043
+Epoch: 5/50 | Batch: 60/125 | BatchLoss: 0.00041
+Epoch: 5/50 | Batch: 70/125 | BatchLoss: 0.00044
+Epoch: 5/50 | Batch: 80/125 | BatchLoss: 0.00034
+Epoch: 5/50 | Batch: 90/125 | BatchLoss: 0.00041
+Epoch: 5/50 | Batch: 100/125 | BatchLoss: 0.00036
+Epoch: 5/50 | Batch: 110/125 | BatchLoss: 0.00035
+Epoch: 5/50 | Batch: 120/125 | BatchLoss: 0.00037
+Epoch: 5/50 | Loss: 0.00040, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 6/50 | Batch: 0/125 | BatchLoss: 0.00029
+Epoch: 6/50 | Batch: 10/125 | BatchLoss: 0.00029
+Epoch: 6/50 | Batch: 20/125 | BatchLoss: 0.00030
+Epoch: 6/50 | Batch: 30/125 | BatchLoss: 0.00027
+Epoch: 6/50 | Batch: 40/125 | BatchLoss: 0.00027
+Epoch: 6/50 | Batch: 50/125 | BatchLoss: 0.00030
+Epoch: 6/50 | Batch: 60/125 | BatchLoss: 0.00036
+Epoch: 6/50 | Batch: 70/125 | BatchLoss: 0.00023
+Epoch: 6/50 | Batch: 80/125 | BatchLoss: 0.00023
+Epoch: 6/50 | Batch: 90/125 | BatchLoss: 0.00024
+Epoch: 6/50 | Batch: 100/125 | BatchLoss: 0.00021
+Epoch: 6/50 | Batch: 110/125 | BatchLoss: 0.00022
+Epoch: 6/50 | Batch: 120/125 | BatchLoss: 0.00019
+Epoch: 6/50 | Loss: 0.00026, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 7/50 | Batch: 0/125 | BatchLoss: 0.00020
+Epoch: 7/50 | Batch: 10/125 | BatchLoss: 0.00013
+Epoch: 7/50 | Batch: 20/125 | BatchLoss: 0.00017
+Epoch: 7/50 | Batch: 30/125 | BatchLoss: 0.00016
+Epoch: 7/50 | Batch: 40/125 | BatchLoss: 0.00014
+Epoch: 7/50 | Batch: 50/125 | BatchLoss: 0.00015
+Epoch: 7/50 | Batch: 60/125 | BatchLoss: 0.00015
+Epoch: 7/50 | Batch: 70/125 | BatchLoss: 0.00017
+Epoch: 7/50 | Batch: 80/125 | BatchLoss: 0.00013
+Epoch: 7/50 | Batch: 90/125 | BatchLoss: 0.00012
+Epoch: 7/50 | Batch: 100/125 | BatchLoss: 0.00013
+Epoch: 7/50 | Batch: 110/125 | BatchLoss: 0.00011
+Epoch: 7/50 | Batch: 120/125 | BatchLoss: 0.00009
+Epoch: 7/50 | Loss: 0.00014, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 8/50 | Batch: 0/125 | BatchLoss: 0.00009
+Epoch: 8/50 | Batch: 10/125 | BatchLoss: 0.00009
+Epoch: 8/50 | Batch: 20/125 | BatchLoss: 0.00010
+Epoch: 8/50 | Batch: 30/125 | BatchLoss: 0.00009
+Epoch: 8/50 | Batch: 40/125 | BatchLoss: 0.00009
+Epoch: 8/50 | Batch: 50/125 | BatchLoss: 0.00013
+Epoch: 8/50 | Batch: 60/125 | BatchLoss: 0.00010
+Epoch: 8/50 | Batch: 70/125 | BatchLoss: 0.00008
+Epoch: 8/50 | Batch: 80/125 | BatchLoss: 0.00007
+Epoch: 8/50 | Batch: 90/125 | BatchLoss: 0.00006
+Epoch: 8/50 | Batch: 100/125 | BatchLoss: 0.00009
+Epoch: 8/50 | Batch: 110/125 | BatchLoss: 0.00007
+Epoch: 8/50 | Batch: 120/125 | BatchLoss: 0.00006
+Epoch: 8/50 | Loss: 0.00008, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 9/50 | Batch: 0/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 10/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 20/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 30/125 | BatchLoss: 0.00006
+Epoch: 9/50 | Batch: 40/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 50/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 60/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 70/125 | BatchLoss: 0.00004
+Epoch: 9/50 | Batch: 80/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 90/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 100/125 | BatchLoss: 0.00005
+Epoch: 9/50 | Batch: 110/125 | BatchLoss: 0.00004
+Epoch: 9/50 | Batch: 120/125 | BatchLoss: 0.00004
+Epoch: 9/50 | Loss: 0.00005, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 10/50 | Batch: 0/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 10/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 20/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 30/125 | BatchLoss: 0.00004
+Epoch: 10/50 | Batch: 40/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 50/125 | BatchLoss: 0.00004
+Epoch: 10/50 | Batch: 60/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 70/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 80/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 90/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 100/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 110/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Batch: 120/125 | BatchLoss: 0.00003
+Epoch: 10/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 11/50 | Batch: 0/125 | BatchLoss: 0.00003
+Epoch: 11/50 | Batch: 10/125 | BatchLoss: 0.00003
+Epoch: 11/50 | Batch: 20/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 30/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 40/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 50/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 60/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 70/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 80/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 90/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 100/125 | BatchLoss: 0.00003
+Epoch: 11/50 | Batch: 110/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Batch: 120/125 | BatchLoss: 0.00002
+Epoch: 11/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 12/50 | Batch: 0/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 10/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 20/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 30/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 40/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 50/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 60/125 | BatchLoss: 0.00002
+Epoch: 12/50 | Batch: 70/125 | BatchLoss: 0.00001
+Epoch: 12/50 | Batch: 80/125 | BatchLoss: 0.00001
+Epoch: 12/50 | Batch: 90/125 | BatchLoss: 0.00001
+Epoch: 12/50 | Batch: 100/125 | BatchLoss: 0.00001
+Epoch: 12/50 | Batch: 110/125 | BatchLoss: 0.00001
+Epoch: 12/50 | Batch: 120/125 | BatchLoss: 0.00001
+Epoch: 12/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 13/50 | Batch: 0/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 10/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 20/125 | BatchLoss: 0.00002
+Epoch: 13/50 | Batch: 30/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 40/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 50/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 60/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 70/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 80/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 90/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 100/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 110/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Batch: 120/125 | BatchLoss: 0.00001
+Epoch: 13/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 14/50 | Batch: 0/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 10/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 20/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 30/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 40/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 50/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 60/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 70/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 80/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 90/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 100/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 110/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Batch: 120/125 | BatchLoss: 0.00001
+Epoch: 14/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 15/50 | Batch: 0/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 10/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 20/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 30/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 40/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 50/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 60/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 70/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 80/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 90/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 100/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 110/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Batch: 120/125 | BatchLoss: 0.00001
+Epoch: 15/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 16/50 | Batch: 0/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 10/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 20/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 30/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 40/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 50/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 60/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 70/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 80/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 90/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 100/125 | BatchLoss: 0.00001
+Epoch: 16/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 16/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 16/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 17/50 | Batch: 0/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 10/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 17/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 17/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 17/50 | Batch: 50/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 60/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 70/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 80/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 17/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 17/50 | Batch: 110/125 | BatchLoss: 0.00001
+Epoch: 17/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 17/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 18/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 40/125 | BatchLoss: 0.00001
+Epoch: 18/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 90/125 | BatchLoss: 0.00001
+Epoch: 18/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 18/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 19/50 | Batch: 0/125 | BatchLoss: 0.00001
+Epoch: 19/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 50/125 | BatchLoss: 0.00001
+Epoch: 19/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 19/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 20/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 20/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 21/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 21/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 22/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 22/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 23/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 23/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 24/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 24/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 25/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 25/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 26/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 26/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 27/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 27/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 28/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 28/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 29/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 30/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 31/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 32/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 33/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 34/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 35/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 36/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 37/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 38/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 39/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 40/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 41/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 42/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 43/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 43/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 44/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 44/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 45/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 45/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 46/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 46/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 47/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 47/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 48/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 48/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 49/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 49/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 10/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 20/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 30/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 40/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 50/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 60/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 70/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 80/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 90/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 100/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 110/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 120/125 | BatchLoss: 0.00000
+Epoch: 50/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 0.00000, Test acc: 100.00%Test Precison: 1.00, Test Recall: 1.0, Test F1: 1.0
+100
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/63 | BatchLoss: 4.64608
+Epoch: 1/50 | Batch: 10/63 | BatchLoss: 5.43920
+Epoch: 1/50 | Batch: 20/63 | BatchLoss: 4.33230
+Epoch: 1/50 | Batch: 30/63 | BatchLoss: 3.88426
+Epoch: 1/50 | Batch: 40/63 | BatchLoss: 3.36114
+Epoch: 1/50 | Batch: 50/63 | BatchLoss: 2.78878
+Epoch: 1/50 | Batch: 60/63 | BatchLoss: 2.33672
+Epoch: 1/50 | Loss: 3.66871, Accuracy: 18.38%, Precision: 0.22, Recall: 0.18, F1 score: 0.18
+Epoch: 2/50 | Batch: 0/63 | BatchLoss: 1.43369
+Epoch: 2/50 | Batch: 10/63 | BatchLoss: 1.55551
+Epoch: 2/50 | Batch: 20/63 | BatchLoss: 1.12044
+Epoch: 2/50 | Batch: 30/63 | BatchLoss: 0.72026
+Epoch: 2/50 | Batch: 40/63 | BatchLoss: 0.43561
+Epoch: 2/50 | Batch: 50/63 | BatchLoss: 0.23267
+Epoch: 2/50 | Batch: 60/63 | BatchLoss: 0.11957
+Epoch: 2/50 | Loss: 0.69418, Accuracy: 84.65%, Precision: 0.87, Recall: 0.85, F1 score: 0.85
+Epoch: 3/50 | Batch: 0/63 | BatchLoss: 0.03025
+Epoch: 3/50 | Batch: 10/63 | BatchLoss: 0.06318
+Epoch: 3/50 | Batch: 20/63 | BatchLoss: 0.02692
+Epoch: 3/50 | Batch: 30/63 | BatchLoss: 0.01690
+Epoch: 3/50 | Batch: 40/63 | BatchLoss: 0.01646
+Epoch: 3/50 | Batch: 50/63 | BatchLoss: 0.00981
+Epoch: 3/50 | Batch: 60/63 | BatchLoss: 0.00882
+Epoch: 3/50 | Loss: 0.02332, Accuracy: 99.80%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 4/50 | Batch: 0/63 | BatchLoss: 0.00519
+Epoch: 4/50 | Batch: 10/63 | BatchLoss: 0.00444
+Epoch: 4/50 | Batch: 20/63 | BatchLoss: 0.00257
+Epoch: 4/50 | Batch: 30/63 | BatchLoss: 0.00291
+Epoch: 4/50 | Batch: 40/63 | BatchLoss: 0.00278
+Epoch: 4/50 | Batch: 50/63 | BatchLoss: 0.00227
+Epoch: 4/50 | Batch: 60/63 | BatchLoss: 0.00226
+Epoch: 4/50 | Loss: 0.00288, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 5/50 | Batch: 0/63 | BatchLoss: 0.00177
+Epoch: 5/50 | Batch: 10/63 | BatchLoss: 0.00161
+Epoch: 5/50 | Batch: 20/63 | BatchLoss: 0.00170
+Epoch: 5/50 | Batch: 30/63 | BatchLoss: 0.00117
+Epoch: 5/50 | Batch: 40/63 | BatchLoss: 0.00135
+Epoch: 5/50 | Batch: 50/63 | BatchLoss: 0.00106
+Epoch: 5/50 | Batch: 60/63 | BatchLoss: 0.00118
+Epoch: 5/50 | Loss: 0.00135, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 6/50 | Batch: 0/63 | BatchLoss: 0.00070
+Epoch: 6/50 | Batch: 10/63 | BatchLoss: 0.00100
+Epoch: 6/50 | Batch: 20/63 | BatchLoss: 0.00089
+Epoch: 6/50 | Batch: 30/63 | BatchLoss: 0.00086
+Epoch: 6/50 | Batch: 40/63 | BatchLoss: 0.00069
+Epoch: 6/50 | Batch: 50/63 | BatchLoss: 0.00075
+Epoch: 6/50 | Batch: 60/63 | BatchLoss: 0.00089
+Epoch: 6/50 | Loss: 0.00083, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 7/50 | Batch: 0/63 | BatchLoss: 0.00055
+Epoch: 7/50 | Batch: 10/63 | BatchLoss: 0.00058
+Epoch: 7/50 | Batch: 20/63 | BatchLoss: 0.00059
+Epoch: 7/50 | Batch: 30/63 | BatchLoss: 0.00061
+Epoch: 7/50 | Batch: 40/63 | BatchLoss: 0.00064
+Epoch: 7/50 | Batch: 50/63 | BatchLoss: 0.00056
+Epoch: 7/50 | Batch: 60/63 | BatchLoss: 0.00060
+Epoch: 7/50 | Loss: 0.00059, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 8/50 | Batch: 0/63 | BatchLoss: 0.00036
+Epoch: 8/50 | Batch: 10/63 | BatchLoss: 0.00038
+Epoch: 8/50 | Batch: 20/63 | BatchLoss: 0.00046
+Epoch: 8/50 | Batch: 30/63 | BatchLoss: 0.00042
+Epoch: 8/50 | Batch: 40/63 | BatchLoss: 0.00042
+Epoch: 8/50 | Batch: 50/63 | BatchLoss: 0.00042
+Epoch: 8/50 | Batch: 60/63 | BatchLoss: 0.00037
+Epoch: 8/50 | Loss: 0.00040, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 9/50 | Batch: 0/63 | BatchLoss: 0.00039
+Epoch: 9/50 | Batch: 10/63 | BatchLoss: 0.00037
+Epoch: 9/50 | Batch: 20/63 | BatchLoss: 0.00031
+Epoch: 9/50 | Batch: 30/63 | BatchLoss: 0.00027
+Epoch: 9/50 | Batch: 40/63 | BatchLoss: 0.00029
+Epoch: 9/50 | Batch: 50/63 | BatchLoss: 0.00025
+Epoch: 9/50 | Batch: 60/63 | BatchLoss: 0.00035
+Epoch: 9/50 | Loss: 0.00031, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 10/50 | Batch: 0/63 | BatchLoss: 0.00026
+Epoch: 10/50 | Batch: 10/63 | BatchLoss: 0.00026
+Epoch: 10/50 | Batch: 20/63 | BatchLoss: 0.00027
+Epoch: 10/50 | Batch: 30/63 | BatchLoss: 0.00020
+Epoch: 10/50 | Batch: 40/63 | BatchLoss: 0.00018
+Epoch: 10/50 | Batch: 50/63 | BatchLoss: 0.00021
+Epoch: 10/50 | Batch: 60/63 | BatchLoss: 0.00021
+Epoch: 10/50 | Loss: 0.00022, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 11/50 | Batch: 0/63 | BatchLoss: 0.00022
+Epoch: 11/50 | Batch: 10/63 | BatchLoss: 0.00015
+Epoch: 11/50 | Batch: 20/63 | BatchLoss: 0.00019
+Epoch: 11/50 | Batch: 30/63 | BatchLoss: 0.00016
+Epoch: 11/50 | Batch: 40/63 | BatchLoss: 0.00013
+Epoch: 11/50 | Batch: 50/63 | BatchLoss: 0.00014
+Epoch: 11/50 | Batch: 60/63 | BatchLoss: 0.00013
+Epoch: 11/50 | Loss: 0.00015, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 12/50 | Batch: 0/63 | BatchLoss: 0.00013
+Epoch: 12/50 | Batch: 10/63 | BatchLoss: 0.00013
+Epoch: 12/50 | Batch: 20/63 | BatchLoss: 0.00011
+Epoch: 12/50 | Batch: 30/63 | BatchLoss: 0.00012
+Epoch: 12/50 | Batch: 40/63 | BatchLoss: 0.00013
+Epoch: 12/50 | Batch: 50/63 | BatchLoss: 0.00009
+Epoch: 12/50 | Batch: 60/63 | BatchLoss: 0.00010
+Epoch: 12/50 | Loss: 0.00011, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 13/50 | Batch: 0/63 | BatchLoss: 0.00011
+Epoch: 13/50 | Batch: 10/63 | BatchLoss: 0.00009
+Epoch: 13/50 | Batch: 20/63 | BatchLoss: 0.00008
+Epoch: 13/50 | Batch: 30/63 | BatchLoss: 0.00008
+Epoch: 13/50 | Batch: 40/63 | BatchLoss: 0.00009
+Epoch: 13/50 | Batch: 50/63 | BatchLoss: 0.00007
+Epoch: 13/50 | Batch: 60/63 | BatchLoss: 0.00008
+Epoch: 13/50 | Loss: 0.00008, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 14/50 | Batch: 0/63 | BatchLoss: 0.00006
+Epoch: 14/50 | Batch: 10/63 | BatchLoss: 0.00006
+Epoch: 14/50 | Batch: 20/63 | BatchLoss: 0.00008
+Epoch: 14/50 | Batch: 30/63 | BatchLoss: 0.00009
+Epoch: 14/50 | Batch: 40/63 | BatchLoss: 0.00006
+Epoch: 14/50 | Batch: 50/63 | BatchLoss: 0.00005
+Epoch: 14/50 | Batch: 60/63 | BatchLoss: 0.00007
+Epoch: 14/50 | Loss: 0.00007, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 15/50 | Batch: 0/63 | BatchLoss: 0.00004
+Epoch: 15/50 | Batch: 10/63 | BatchLoss: 0.00005
+Epoch: 15/50 | Batch: 20/63 | BatchLoss: 0.00004
+Epoch: 15/50 | Batch: 30/63 | BatchLoss: 0.00004
+Epoch: 15/50 | Batch: 40/63 | BatchLoss: 0.00005
+Epoch: 15/50 | Batch: 50/63 | BatchLoss: 0.00005
+Epoch: 15/50 | Batch: 60/63 | BatchLoss: 0.00005
+Epoch: 15/50 | Loss: 0.00005, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 16/50 | Batch: 0/63 | BatchLoss: 0.00007
+Epoch: 16/50 | Batch: 10/63 | BatchLoss: 0.00004
+Epoch: 16/50 | Batch: 20/63 | BatchLoss: 0.00004
+Epoch: 16/50 | Batch: 30/63 | BatchLoss: 0.00004
+Epoch: 16/50 | Batch: 40/63 | BatchLoss: 0.00003
+Epoch: 16/50 | Batch: 50/63 | BatchLoss: 0.00004
+Epoch: 16/50 | Batch: 60/63 | BatchLoss: 0.00004
+Epoch: 16/50 | Loss: 0.00004, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 17/50 | Batch: 0/63 | BatchLoss: 0.00004
+Epoch: 17/50 | Batch: 10/63 | BatchLoss: 0.00003
+Epoch: 17/50 | Batch: 20/63 | BatchLoss: 0.00003
+Epoch: 17/50 | Batch: 30/63 | BatchLoss: 0.00003
+Epoch: 17/50 | Batch: 40/63 | BatchLoss: 0.00003
+Epoch: 17/50 | Batch: 50/63 | BatchLoss: 0.00003
+Epoch: 17/50 | Batch: 60/63 | BatchLoss: 0.00003
+Epoch: 17/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 18/50 | Batch: 0/63 | BatchLoss: 0.00003
+Epoch: 18/50 | Batch: 10/63 | BatchLoss: 0.00002
+Epoch: 18/50 | Batch: 20/63 | BatchLoss: 0.00003
+Epoch: 18/50 | Batch: 30/63 | BatchLoss: 0.00003
+Epoch: 18/50 | Batch: 40/63 | BatchLoss: 0.00002
+Epoch: 18/50 | Batch: 50/63 | BatchLoss: 0.00002
+Epoch: 18/50 | Batch: 60/63 | BatchLoss: 0.00002
+Epoch: 18/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 19/50 | Batch: 0/63 | BatchLoss: 0.00004
+Epoch: 19/50 | Batch: 10/63 | BatchLoss: 0.00003
+Epoch: 19/50 | Batch: 20/63 | BatchLoss: 0.00002
+Epoch: 19/50 | Batch: 30/63 | BatchLoss: 0.00002
+Epoch: 19/50 | Batch: 40/63 | BatchLoss: 0.00002
+Epoch: 19/50 | Batch: 50/63 | BatchLoss: 0.00003
+Epoch: 19/50 | Batch: 60/63 | BatchLoss: 0.00002
+Epoch: 19/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 20/50 | Batch: 0/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Batch: 10/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Batch: 20/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Batch: 30/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Batch: 40/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Batch: 50/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Batch: 60/63 | BatchLoss: 0.00002
+Epoch: 20/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 21/50 | Batch: 0/63 | BatchLoss: 0.00002
+Epoch: 21/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 21/50 | Batch: 20/63 | BatchLoss: 0.00002
+Epoch: 21/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 21/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 21/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 21/50 | Batch: 60/63 | BatchLoss: 0.00002
+Epoch: 21/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 22/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 22/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 23/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 23/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 24/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 24/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 25/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 25/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 26/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 26/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 27/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 27/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 27/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 27/50 | Batch: 30/63 | BatchLoss: 0.00001
+Epoch: 27/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 27/50 | Batch: 50/63 | BatchLoss: 0.00001
+Epoch: 27/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 27/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 28/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 10/63 | BatchLoss: 0.00001
+Epoch: 28/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 28/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 28/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 28/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 20/63 | BatchLoss: 0.00001
+Epoch: 29/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 40/63 | BatchLoss: 0.00001
+Epoch: 29/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 29/50 | Batch: 60/63 | BatchLoss: 0.00001
+Epoch: 29/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 30/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 30/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 30/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/63 | BatchLoss: 0.00001
+Epoch: 31/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 31/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 31/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 32/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 33/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 34/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 35/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 36/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 37/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 38/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 39/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 40/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 41/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 42/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 43/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 43/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 44/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 44/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 45/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 45/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 46/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 46/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 47/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 47/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 48/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 48/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 49/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 49/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 10/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 20/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 30/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 40/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 50/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 60/63 | BatchLoss: 0.00000
+Epoch: 50/50 | Loss: 0.00000, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 0.00003, Test acc: 100.00%Test Precison: 1.00, Test Recall: 1.0, Test F1: 1.0
+50
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/38 | BatchLoss: 4.69125
+Epoch: 1/50 | Batch: 10/38 | BatchLoss: 5.34838
+Epoch: 1/50 | Batch: 20/38 | BatchLoss: 4.39683
+Epoch: 1/50 | Batch: 30/38 | BatchLoss: 4.07600
+Epoch: 1/50 | Loss: 4.45646, Accuracy: 4.88%, Precision: 0.04, Recall: 0.05, F1 score: 0.04
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 2/50 | Batch: 0/38 | BatchLoss: 3.33589
+Epoch: 2/50 | Batch: 10/38 | BatchLoss: 3.07316
+Epoch: 2/50 | Batch: 20/38 | BatchLoss: 2.65339
+Epoch: 2/50 | Batch: 30/38 | BatchLoss: 2.26282
+Epoch: 2/50 | Loss: 2.53187, Accuracy: 37.62%, Precision: 0.40, Recall: 0.37, F1 score: 0.37
+Epoch: 3/50 | Batch: 0/38 | BatchLoss: 1.30372
+Epoch: 3/50 | Batch: 10/38 | BatchLoss: 1.31690
+Epoch: 3/50 | Batch: 20/38 | BatchLoss: 0.95014
+Epoch: 3/50 | Batch: 30/38 | BatchLoss: 0.69056
+Epoch: 3/50 | Loss: 0.90990, Accuracy: 78.21%, Precision: 0.80, Recall: 0.78, F1 score: 0.78
+Epoch: 4/50 | Batch: 0/38 | BatchLoss: 0.23444
+Epoch: 4/50 | Batch: 10/38 | BatchLoss: 0.27271
+Epoch: 4/50 | Batch: 20/38 | BatchLoss: 0.17868
+Epoch: 4/50 | Batch: 30/38 | BatchLoss: 0.12381
+Epoch: 4/50 | Loss: 0.17758, Accuracy: 96.25%, Precision: 0.97, Recall: 0.96, F1 score: 0.96
+Epoch: 5/50 | Batch: 0/38 | BatchLoss: 0.04848
+Epoch: 5/50 | Batch: 10/38 | BatchLoss: 0.05094
+Epoch: 5/50 | Batch: 20/38 | BatchLoss: 0.03966
+Epoch: 5/50 | Batch: 30/38 | BatchLoss: 0.02631
+Epoch: 5/50 | Loss: 0.03863, Accuracy: 99.33%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 6/50 | Batch: 0/38 | BatchLoss: 0.00671
+Epoch: 6/50 | Batch: 10/38 | BatchLoss: 0.02991
+Epoch: 6/50 | Batch: 20/38 | BatchLoss: 0.01975
+Epoch: 6/50 | Batch: 30/38 | BatchLoss: 0.01104
+Epoch: 6/50 | Loss: 0.01780, Accuracy: 99.79%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 7/50 | Batch: 0/38 | BatchLoss: 0.00927
+Epoch: 7/50 | Batch: 10/38 | BatchLoss: 0.00458
+Epoch: 7/50 | Batch: 20/38 | BatchLoss: 0.00362
+Epoch: 7/50 | Batch: 30/38 | BatchLoss: 0.00284
+Epoch: 7/50 | Loss: 0.00350, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 8/50 | Batch: 0/38 | BatchLoss: 0.00146
+Epoch: 8/50 | Batch: 10/38 | BatchLoss: 0.00152
+Epoch: 8/50 | Batch: 20/38 | BatchLoss: 0.00193
+Epoch: 8/50 | Batch: 30/38 | BatchLoss: 0.00148
+Epoch: 8/50 | Loss: 0.00164, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 9/50 | Batch: 0/38 | BatchLoss: 0.00114
+Epoch: 9/50 | Batch: 10/38 | BatchLoss: 0.00133
+Epoch: 9/50 | Batch: 20/38 | BatchLoss: 0.00115
+Epoch: 9/50 | Batch: 30/38 | BatchLoss: 0.00115
+Epoch: 9/50 | Loss: 0.00116, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 10/50 | Batch: 0/38 | BatchLoss: 0.00078
+Epoch: 10/50 | Batch: 10/38 | BatchLoss: 0.00090
+Epoch: 10/50 | Batch: 20/38 | BatchLoss: 0.00093
+Epoch: 10/50 | Batch: 30/38 | BatchLoss: 0.00112
+Epoch: 10/50 | Loss: 0.00095, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 11/50 | Batch: 0/38 | BatchLoss: 0.00078
+Epoch: 11/50 | Batch: 10/38 | BatchLoss: 0.00069
+Epoch: 11/50 | Batch: 20/38 | BatchLoss: 0.00071
+Epoch: 11/50 | Batch: 30/38 | BatchLoss: 0.00076
+Epoch: 11/50 | Loss: 0.00074, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 12/50 | Batch: 0/38 | BatchLoss: 0.00062
+Epoch: 12/50 | Batch: 10/38 | BatchLoss: 0.00067
+Epoch: 12/50 | Batch: 20/38 | BatchLoss: 0.00055
+Epoch: 12/50 | Batch: 30/38 | BatchLoss: 0.00056
+Epoch: 12/50 | Loss: 0.00062, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 13/50 | Batch: 0/38 | BatchLoss: 0.00052
+Epoch: 13/50 | Batch: 10/38 | BatchLoss: 0.00055
+Epoch: 13/50 | Batch: 20/38 | BatchLoss: 0.00051
+Epoch: 13/50 | Batch: 30/38 | BatchLoss: 0.00054
+Epoch: 13/50 | Loss: 0.00051, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 14/50 | Batch: 0/38 | BatchLoss: 0.00028
+Epoch: 14/50 | Batch: 10/38 | BatchLoss: 0.00047
+Epoch: 14/50 | Batch: 20/38 | BatchLoss: 0.00043
+Epoch: 14/50 | Batch: 30/38 | BatchLoss: 0.00035
+Epoch: 14/50 | Loss: 0.00041, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 15/50 | Batch: 0/38 | BatchLoss: 0.00026
+Epoch: 15/50 | Batch: 10/38 | BatchLoss: 0.00038
+Epoch: 15/50 | Batch: 20/38 | BatchLoss: 0.00032
+Epoch: 15/50 | Batch: 30/38 | BatchLoss: 0.00036
+Epoch: 15/50 | Loss: 0.00034, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 16/50 | Batch: 0/38 | BatchLoss: 0.00027
+Epoch: 16/50 | Batch: 10/38 | BatchLoss: 0.00029
+Epoch: 16/50 | Batch: 20/38 | BatchLoss: 0.00024
+Epoch: 16/50 | Batch: 30/38 | BatchLoss: 0.00026
+Epoch: 16/50 | Loss: 0.00026, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 17/50 | Batch: 0/38 | BatchLoss: 0.00028
+Epoch: 17/50 | Batch: 10/38 | BatchLoss: 0.00021
+Epoch: 17/50 | Batch: 20/38 | BatchLoss: 0.00021
+Epoch: 17/50 | Batch: 30/38 | BatchLoss: 0.00020
+Epoch: 17/50 | Loss: 0.00021, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 18/50 | Batch: 0/38 | BatchLoss: 0.00013
+Epoch: 18/50 | Batch: 10/38 | BatchLoss: 0.00020
+Epoch: 18/50 | Batch: 20/38 | BatchLoss: 0.00017
+Epoch: 18/50 | Batch: 30/38 | BatchLoss: 0.00019
+Epoch: 18/50 | Loss: 0.00018, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 19/50 | Batch: 0/38 | BatchLoss: 0.00019
+Epoch: 19/50 | Batch: 10/38 | BatchLoss: 0.00018
+Epoch: 19/50 | Batch: 20/38 | BatchLoss: 0.00015
+Epoch: 19/50 | Batch: 30/38 | BatchLoss: 0.00015
+Epoch: 19/50 | Loss: 0.00016, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 20/50 | Batch: 0/38 | BatchLoss: 0.00015
+Epoch: 20/50 | Batch: 10/38 | BatchLoss: 0.00012
+Epoch: 20/50 | Batch: 20/38 | BatchLoss: 0.00014
+Epoch: 20/50 | Batch: 30/38 | BatchLoss: 0.00014
+Epoch: 20/50 | Loss: 0.00014, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 21/50 | Batch: 0/38 | BatchLoss: 0.00011
+Epoch: 21/50 | Batch: 10/38 | BatchLoss: 0.00010
+Epoch: 21/50 | Batch: 20/38 | BatchLoss: 0.00011
+Epoch: 21/50 | Batch: 30/38 | BatchLoss: 0.00010
+Epoch: 21/50 | Loss: 0.00010, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 22/50 | Batch: 0/38 | BatchLoss: 0.00009
+Epoch: 22/50 | Batch: 10/38 | BatchLoss: 0.00010
+Epoch: 22/50 | Batch: 20/38 | BatchLoss: 0.00008
+Epoch: 22/50 | Batch: 30/38 | BatchLoss: 0.00009
+Epoch: 22/50 | Loss: 0.00009, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 23/50 | Batch: 0/38 | BatchLoss: 0.00005
+Epoch: 23/50 | Batch: 10/38 | BatchLoss: 0.00008
+Epoch: 23/50 | Batch: 20/38 | BatchLoss: 0.00009
+Epoch: 23/50 | Batch: 30/38 | BatchLoss: 0.00007
+Epoch: 23/50 | Loss: 0.00008, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 24/50 | Batch: 0/38 | BatchLoss: 0.00009
+Epoch: 24/50 | Batch: 10/38 | BatchLoss: 0.00006
+Epoch: 24/50 | Batch: 20/38 | BatchLoss: 0.00006
+Epoch: 24/50 | Batch: 30/38 | BatchLoss: 0.00007
+Epoch: 24/50 | Loss: 0.00006, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 25/50 | Batch: 0/38 | BatchLoss: 0.00004
+Epoch: 25/50 | Batch: 10/38 | BatchLoss: 0.00005
+Epoch: 25/50 | Batch: 20/38 | BatchLoss: 0.00005
+Epoch: 25/50 | Batch: 30/38 | BatchLoss: 0.00006
+Epoch: 25/50 | Loss: 0.00005, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 26/50 | Batch: 0/38 | BatchLoss: 0.00004
+Epoch: 26/50 | Batch: 10/38 | BatchLoss: 0.00004
+Epoch: 26/50 | Batch: 20/38 | BatchLoss: 0.00005
+Epoch: 26/50 | Batch: 30/38 | BatchLoss: 0.00005
+Epoch: 26/50 | Loss: 0.00005, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 27/50 | Batch: 0/38 | BatchLoss: 0.00005
+Epoch: 27/50 | Batch: 10/38 | BatchLoss: 0.00005
+Epoch: 27/50 | Batch: 20/38 | BatchLoss: 0.00004
+Epoch: 27/50 | Batch: 30/38 | BatchLoss: 0.00004
+Epoch: 27/50 | Loss: 0.00005, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 28/50 | Batch: 0/38 | BatchLoss: 0.00004
+Epoch: 28/50 | Batch: 10/38 | BatchLoss: 0.00004
+Epoch: 28/50 | Batch: 20/38 | BatchLoss: 0.00003
+Epoch: 28/50 | Batch: 30/38 | BatchLoss: 0.00003
+Epoch: 28/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/38 | BatchLoss: 0.00003
+Epoch: 29/50 | Batch: 10/38 | BatchLoss: 0.00003
+Epoch: 29/50 | Batch: 20/38 | BatchLoss: 0.00003
+Epoch: 29/50 | Batch: 30/38 | BatchLoss: 0.00003
+Epoch: 29/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/38 | BatchLoss: 0.00002
+Epoch: 30/50 | Batch: 10/38 | BatchLoss: 0.00003
+Epoch: 30/50 | Batch: 20/38 | BatchLoss: 0.00003
+Epoch: 30/50 | Batch: 30/38 | BatchLoss: 0.00004
+Epoch: 30/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/38 | BatchLoss: 0.00004
+Epoch: 31/50 | Batch: 10/38 | BatchLoss: 0.00003
+Epoch: 31/50 | Batch: 20/38 | BatchLoss: 0.00003
+Epoch: 31/50 | Batch: 30/38 | BatchLoss: 0.00003
+Epoch: 31/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/38 | BatchLoss: 0.00002
+Epoch: 32/50 | Batch: 10/38 | BatchLoss: 0.00003
+Epoch: 32/50 | Batch: 20/38 | BatchLoss: 0.00003
+Epoch: 32/50 | Batch: 30/38 | BatchLoss: 0.00002
+Epoch: 32/50 | Loss: 0.00003, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/38 | BatchLoss: 0.00002
+Epoch: 33/50 | Batch: 10/38 | BatchLoss: 0.00002
+Epoch: 33/50 | Batch: 20/38 | BatchLoss: 0.00002
+Epoch: 33/50 | Batch: 30/38 | BatchLoss: 0.00002
+Epoch: 33/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/38 | BatchLoss: 0.00002
+Epoch: 34/50 | Batch: 10/38 | BatchLoss: 0.00002
+Epoch: 34/50 | Batch: 20/38 | BatchLoss: 0.00002
+Epoch: 34/50 | Batch: 30/38 | BatchLoss: 0.00002
+Epoch: 34/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/38 | BatchLoss: 0.00002
+Epoch: 35/50 | Batch: 10/38 | BatchLoss: 0.00002
+Epoch: 35/50 | Batch: 20/38 | BatchLoss: 0.00002
+Epoch: 35/50 | Batch: 30/38 | BatchLoss: 0.00002
+Epoch: 35/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 36/50 | Batch: 10/38 | BatchLoss: 0.00002
+Epoch: 36/50 | Batch: 20/38 | BatchLoss: 0.00002
+Epoch: 36/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 36/50 | Loss: 0.00002, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 37/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 37/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 37/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 37/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 38/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 38/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 38/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 38/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/38 | BatchLoss: 0.00002
+Epoch: 39/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 39/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 39/50 | Batch: 30/38 | BatchLoss: 0.00002
+Epoch: 39/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 40/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 40/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 40/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 40/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 41/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 41/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 41/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 41/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 42/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 42/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 42/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 42/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 43/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 43/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 43/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 43/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 43/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 44/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 44/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 44/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 44/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 44/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 45/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 45/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 45/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 45/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 45/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 46/50 | Batch: 0/38 | BatchLoss: 0.00000
+Epoch: 46/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 46/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 46/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 46/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 47/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 47/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 47/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 47/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 47/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 48/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 48/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 48/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 48/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 48/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 49/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 49/50 | Batch: 10/38 | BatchLoss: 0.00001
+Epoch: 49/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 49/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 49/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/38 | BatchLoss: 0.00001
+Epoch: 50/50 | Batch: 10/38 | BatchLoss: 0.00000
+Epoch: 50/50 | Batch: 20/38 | BatchLoss: 0.00001
+Epoch: 50/50 | Batch: 30/38 | BatchLoss: 0.00001
+Epoch: 50/50 | Loss: 0.00001, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 0.02933, Test acc: 99.33%Test Precison: 1.00, Test Recall: 0.9933333333333333, Test F1: 0.9925555555555555
+30
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/13 | BatchLoss: 4.61490
+Epoch: 1/50 | Batch: 10/13 | BatchLoss: 5.42744
+Epoch: 1/50 | Loss: 5.25124, Accuracy: 1.88%, Precision: 0.01, Recall: 0.02, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 2/50 | Batch: 0/13 | BatchLoss: 4.26686
+Epoch: 2/50 | Batch: 10/13 | BatchLoss: 4.00699
+Epoch: 2/50 | Loss: 3.99975, Accuracy: 7.62%, Precision: 0.04, Recall: 0.07, F1 score: 0.04
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 3/50 | Batch: 0/13 | BatchLoss: 3.40212
+Epoch: 3/50 | Batch: 10/13 | BatchLoss: 3.20921
+Epoch: 3/50 | Loss: 3.17140, Accuracy: 21.38%, Precision: 0.25, Recall: 0.20, F1 score: 0.18
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 4/50 | Batch: 0/13 | BatchLoss: 2.48450
+Epoch: 4/50 | Batch: 10/13 | BatchLoss: 2.36585
+Epoch: 4/50 | Loss: 2.35515, Accuracy: 42.75%, Precision: 0.47, Recall: 0.41, F1 score: 0.39
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 5/50 | Batch: 0/13 | BatchLoss: 1.66517
+Epoch: 5/50 | Batch: 10/13 | BatchLoss: 1.37267
+Epoch: 5/50 | Loss: 1.35856, Accuracy: 69.25%, Precision: 0.75, Recall: 0.68, F1 score: 0.69
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 6/50 | Batch: 0/13 | BatchLoss: 0.68353
+Epoch: 6/50 | Batch: 10/13 | BatchLoss: 0.66411
+Epoch: 6/50 | Loss: 0.64067, Accuracy: 88.25%, Precision: 0.89, Recall: 0.88, F1 score: 0.88
+Epoch: 7/50 | Batch: 0/13 | BatchLoss: 0.24202
+Epoch: 7/50 | Batch: 10/13 | BatchLoss: 0.24466
+Epoch: 7/50 | Loss: 0.23960, Accuracy: 96.25%, Precision: 0.96, Recall: 0.96, F1 score: 0.96
+Epoch: 8/50 | Batch: 0/13 | BatchLoss: 0.07687
+Epoch: 8/50 | Batch: 10/13 | BatchLoss: 0.07751
+Epoch: 8/50 | Loss: 0.07651, Accuracy: 99.38%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 9/50 | Batch: 0/13 | BatchLoss: 0.06101
+Epoch: 9/50 | Batch: 10/13 | BatchLoss: 0.02758
+Epoch: 9/50 | Loss: 0.03089, Accuracy: 99.88%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 10/50 | Batch: 0/13 | BatchLoss: 0.01118
+Epoch: 10/50 | Batch: 10/13 | BatchLoss: 0.01271
+Epoch: 10/50 | Loss: 0.01221, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 11/50 | Batch: 0/13 | BatchLoss: 0.00591
+Epoch: 11/50 | Batch: 10/13 | BatchLoss: 0.00650
+Epoch: 11/50 | Loss: 0.00694, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 12/50 | Batch: 0/13 | BatchLoss: 0.00299
+Epoch: 12/50 | Batch: 10/13 | BatchLoss: 0.00514
+Epoch: 12/50 | Loss: 0.00494, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 13/50 | Batch: 0/13 | BatchLoss: 0.00308
+Epoch: 13/50 | Batch: 10/13 | BatchLoss: 0.00340
+Epoch: 13/50 | Loss: 0.00340, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 14/50 | Batch: 0/13 | BatchLoss: 0.00291
+Epoch: 14/50 | Batch: 10/13 | BatchLoss: 0.00255
+Epoch: 14/50 | Loss: 0.00253, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 15/50 | Batch: 0/13 | BatchLoss: 0.00268
+Epoch: 15/50 | Batch: 10/13 | BatchLoss: 0.00205
+Epoch: 15/50 | Loss: 0.00218, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 16/50 | Batch: 0/13 | BatchLoss: 0.00205
+Epoch: 16/50 | Batch: 10/13 | BatchLoss: 0.00176
+Epoch: 16/50 | Loss: 0.00176, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 17/50 | Batch: 0/13 | BatchLoss: 0.00119
+Epoch: 17/50 | Batch: 10/13 | BatchLoss: 0.00157
+Epoch: 17/50 | Loss: 0.00157, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 18/50 | Batch: 0/13 | BatchLoss: 0.00138
+Epoch: 18/50 | Batch: 10/13 | BatchLoss: 0.00132
+Epoch: 18/50 | Loss: 0.00141, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 19/50 | Batch: 0/13 | BatchLoss: 0.00132
+Epoch: 19/50 | Batch: 10/13 | BatchLoss: 0.00130
+Epoch: 19/50 | Loss: 0.00130, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 20/50 | Batch: 0/13 | BatchLoss: 0.00098
+Epoch: 20/50 | Batch: 10/13 | BatchLoss: 0.00107
+Epoch: 20/50 | Loss: 0.00107, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 21/50 | Batch: 0/13 | BatchLoss: 0.00087
+Epoch: 21/50 | Batch: 10/13 | BatchLoss: 0.00090
+Epoch: 21/50 | Loss: 0.00091, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 22/50 | Batch: 0/13 | BatchLoss: 0.00075
+Epoch: 22/50 | Batch: 10/13 | BatchLoss: 0.00082
+Epoch: 22/50 | Loss: 0.00081, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 23/50 | Batch: 0/13 | BatchLoss: 0.00048
+Epoch: 23/50 | Batch: 10/13 | BatchLoss: 0.00079
+Epoch: 23/50 | Loss: 0.00075, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 24/50 | Batch: 0/13 | BatchLoss: 0.00078
+Epoch: 24/50 | Batch: 10/13 | BatchLoss: 0.00067
+Epoch: 24/50 | Loss: 0.00070, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 25/50 | Batch: 0/13 | BatchLoss: 0.00077
+Epoch: 25/50 | Batch: 10/13 | BatchLoss: 0.00062
+Epoch: 25/50 | Loss: 0.00063, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 26/50 | Batch: 0/13 | BatchLoss: 0.00043
+Epoch: 26/50 | Batch: 10/13 | BatchLoss: 0.00055
+Epoch: 26/50 | Loss: 0.00053, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 27/50 | Batch: 0/13 | BatchLoss: 0.00041
+Epoch: 27/50 | Batch: 10/13 | BatchLoss: 0.00053
+Epoch: 27/50 | Loss: 0.00050, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 28/50 | Batch: 0/13 | BatchLoss: 0.00051
+Epoch: 28/50 | Batch: 10/13 | BatchLoss: 0.00050
+Epoch: 28/50 | Loss: 0.00050, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/13 | BatchLoss: 0.00050
+Epoch: 29/50 | Batch: 10/13 | BatchLoss: 0.00042
+Epoch: 29/50 | Loss: 0.00042, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/13 | BatchLoss: 0.00042
+Epoch: 30/50 | Batch: 10/13 | BatchLoss: 0.00038
+Epoch: 30/50 | Loss: 0.00038, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/13 | BatchLoss: 0.00043
+Epoch: 31/50 | Batch: 10/13 | BatchLoss: 0.00035
+Epoch: 31/50 | Loss: 0.00035, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/13 | BatchLoss: 0.00038
+Epoch: 32/50 | Batch: 10/13 | BatchLoss: 0.00031
+Epoch: 32/50 | Loss: 0.00031, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/13 | BatchLoss: 0.00027
+Epoch: 33/50 | Batch: 10/13 | BatchLoss: 0.00029
+Epoch: 33/50 | Loss: 0.00029, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/13 | BatchLoss: 0.00033
+Epoch: 34/50 | Batch: 10/13 | BatchLoss: 0.00026
+Epoch: 34/50 | Loss: 0.00027, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/13 | BatchLoss: 0.00014
+Epoch: 35/50 | Batch: 10/13 | BatchLoss: 0.00027
+Epoch: 35/50 | Loss: 0.00025, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/13 | BatchLoss: 0.00020
+Epoch: 36/50 | Batch: 10/13 | BatchLoss: 0.00022
+Epoch: 36/50 | Loss: 0.00022, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/13 | BatchLoss: 0.00020
+Epoch: 37/50 | Batch: 10/13 | BatchLoss: 0.00021
+Epoch: 37/50 | Loss: 0.00021, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/13 | BatchLoss: 0.00028
+Epoch: 38/50 | Batch: 10/13 | BatchLoss: 0.00019
+Epoch: 38/50 | Loss: 0.00020, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/13 | BatchLoss: 0.00017
+Epoch: 39/50 | Batch: 10/13 | BatchLoss: 0.00019
+Epoch: 39/50 | Loss: 0.00018, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/13 | BatchLoss: 0.00016
+Epoch: 40/50 | Batch: 10/13 | BatchLoss: 0.00017
+Epoch: 40/50 | Loss: 0.00017, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/13 | BatchLoss: 0.00015
+Epoch: 41/50 | Batch: 10/13 | BatchLoss: 0.00016
+Epoch: 41/50 | Loss: 0.00016, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/13 | BatchLoss: 0.00016
+Epoch: 42/50 | Batch: 10/13 | BatchLoss: 0.00015
+Epoch: 42/50 | Loss: 0.00015, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 43/50 | Batch: 0/13 | BatchLoss: 0.00014
+Epoch: 43/50 | Batch: 10/13 | BatchLoss: 0.00014
+Epoch: 43/50 | Loss: 0.00014, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 44/50 | Batch: 0/13 | BatchLoss: 0.00012
+Epoch: 44/50 | Batch: 10/13 | BatchLoss: 0.00013
+Epoch: 44/50 | Loss: 0.00013, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 45/50 | Batch: 0/13 | BatchLoss: 0.00012
+Epoch: 45/50 | Batch: 10/13 | BatchLoss: 0.00013
+Epoch: 45/50 | Loss: 0.00013, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 46/50 | Batch: 0/13 | BatchLoss: 0.00008
+Epoch: 46/50 | Batch: 10/13 | BatchLoss: 0.00012
+Epoch: 46/50 | Loss: 0.00012, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 47/50 | Batch: 0/13 | BatchLoss: 0.00010
+Epoch: 47/50 | Batch: 10/13 | BatchLoss: 0.00013
+Epoch: 47/50 | Loss: 0.00012, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 48/50 | Batch: 0/13 | BatchLoss: 0.00010
+Epoch: 48/50 | Batch: 10/13 | BatchLoss: 0.00011
+Epoch: 48/50 | Loss: 0.00010, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 49/50 | Batch: 0/13 | BatchLoss: 0.00009
+Epoch: 49/50 | Batch: 10/13 | BatchLoss: 0.00010
+Epoch: 49/50 | Loss: 0.00010, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/13 | BatchLoss: 0.00013
+Epoch: 50/50 | Batch: 10/13 | BatchLoss: 0.00009
+Epoch: 50/50 | Loss: 0.00010, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 0.53734, Test acc: 89.50%Test Precison: 0.94, Test Recall: 0.895, Test F1: 0.901107142857143
+10
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/124 | BatchLoss: 4.60553
+Epoch: 1/50 | Batch: 10/124 | BatchLoss: 4.63662
+Epoch: 1/50 | Batch: 20/124 | BatchLoss: 4.62465
+Epoch: 1/50 | Batch: 30/124 | BatchLoss: 4.60991
+Epoch: 1/50 | Batch: 40/124 | BatchLoss: 4.60680
+Epoch: 1/50 | Batch: 50/124 | BatchLoss: 4.61208
+Epoch: 1/50 | Batch: 60/124 | BatchLoss: 4.60309
+Epoch: 1/50 | Batch: 70/124 | BatchLoss: 4.59804
+Epoch: 1/50 | Batch: 80/124 | BatchLoss: 4.59466
+Epoch: 1/50 | Batch: 90/124 | BatchLoss: 4.59127
+Epoch: 1/50 | Batch: 100/124 | BatchLoss: 4.58596
+Epoch: 1/50 | Batch: 110/124 | BatchLoss: 4.58609
+Epoch: 1/50 | Batch: 120/124 | BatchLoss: 4.56098
+Epoch: 1/50 | Loss: 4.59996, Accuracy: 1.02%, Precision: 0.01, Recall: 0.01, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 2/50 | Batch: 0/124 | BatchLoss: 4.55626
+Epoch: 2/50 | Batch: 10/124 | BatchLoss: 4.49752
+Epoch: 2/50 | Batch: 20/124 | BatchLoss: 4.54002
+Epoch: 2/50 | Batch: 30/124 | BatchLoss: 4.49747
+Epoch: 2/50 | Batch: 40/124 | BatchLoss: 4.41094
+Epoch: 2/50 | Batch: 50/124 | BatchLoss: 4.38775
+Epoch: 2/50 | Batch: 60/124 | BatchLoss: 4.33884
+Epoch: 2/50 | Batch: 70/124 | BatchLoss: 4.29564
+Epoch: 2/50 | Batch: 80/124 | BatchLoss: 4.27495
+Epoch: 2/50 | Batch: 90/124 | BatchLoss: 4.30721
+Epoch: 2/50 | Batch: 100/124 | BatchLoss: 4.24292
+Epoch: 2/50 | Batch: 110/124 | BatchLoss: 4.27980
+Epoch: 2/50 | Batch: 120/124 | BatchLoss: 4.12458
+Epoch: 2/50 | Loss: 4.34716, Accuracy: 2.73%, Precision: 0.01, Recall: 0.03, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 3/50 | Batch: 0/124 | BatchLoss: 4.06650
+Epoch: 3/50 | Batch: 10/124 | BatchLoss: 4.08438
+Epoch: 3/50 | Batch: 20/124 | BatchLoss: 4.07320
+Epoch: 3/50 | Batch: 30/124 | BatchLoss: 4.12039
+Epoch: 3/50 | Batch: 40/124 | BatchLoss: 4.08632
+Epoch: 3/50 | Batch: 50/124 | BatchLoss: 4.00866
+Epoch: 3/50 | Batch: 60/124 | BatchLoss: 3.95992
+Epoch: 3/50 | Batch: 70/124 | BatchLoss: 3.96028
+Epoch: 3/50 | Batch: 80/124 | BatchLoss: 3.99896
+Epoch: 3/50 | Batch: 90/124 | BatchLoss: 3.98725
+Epoch: 3/50 | Batch: 100/124 | BatchLoss: 3.90254
+Epoch: 3/50 | Batch: 110/124 | BatchLoss: 3.81812
+Epoch: 3/50 | Batch: 120/124 | BatchLoss: 3.78459
+Epoch: 3/50 | Loss: 3.97973, Accuracy: 5.72%, Precision: 0.04, Recall: 0.06, F1 score: 0.04
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 4/50 | Batch: 0/124 | BatchLoss: 3.76100
+Epoch: 4/50 | Batch: 10/124 | BatchLoss: 3.62155
+Epoch: 4/50 | Batch: 20/124 | BatchLoss: 3.68197
+Epoch: 4/50 | Batch: 30/124 | BatchLoss: 3.58730
+Epoch: 4/50 | Batch: 40/124 | BatchLoss: 3.66957
+Epoch: 4/50 | Batch: 50/124 | BatchLoss: 3.63513
+Epoch: 4/50 | Batch: 60/124 | BatchLoss: 3.61613
+Epoch: 4/50 | Batch: 70/124 | BatchLoss: 3.56477
+Epoch: 4/50 | Batch: 80/124 | BatchLoss: 3.45469
+Epoch: 4/50 | Batch: 90/124 | BatchLoss: 3.48986
+Epoch: 4/50 | Batch: 100/124 | BatchLoss: 3.45156
+Epoch: 4/50 | Batch: 110/124 | BatchLoss: 3.36362
+Epoch: 4/50 | Batch: 120/124 | BatchLoss: 3.34115
+Epoch: 4/50 | Loss: 3.53778, Accuracy: 12.05%, Precision: 0.10, Recall: 0.12, F1 score: 0.10
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 5/50 | Batch: 0/124 | BatchLoss: 3.13017
+Epoch: 5/50 | Batch: 10/124 | BatchLoss: 3.14247
+Epoch: 5/50 | Batch: 20/124 | BatchLoss: 3.13428
+Epoch: 5/50 | Batch: 30/124 | BatchLoss: 2.97372
+Epoch: 5/50 | Batch: 40/124 | BatchLoss: 3.07469
+Epoch: 5/50 | Batch: 50/124 | BatchLoss: 3.01875
+Epoch: 5/50 | Batch: 60/124 | BatchLoss: 3.02264
+Epoch: 5/50 | Batch: 70/124 | BatchLoss: 3.03786
+Epoch: 5/50 | Batch: 80/124 | BatchLoss: 2.97189
+Epoch: 5/50 | Batch: 90/124 | BatchLoss: 2.90047
+Epoch: 5/50 | Batch: 100/124 | BatchLoss: 2.88629
+Epoch: 5/50 | Batch: 110/124 | BatchLoss: 2.82115
+Epoch: 5/50 | Batch: 120/124 | BatchLoss: 2.77762
+Epoch: 5/50 | Loss: 2.97313, Accuracy: 22.46%, Precision: 0.21, Recall: 0.22, F1 score: 0.21
+Epoch: 6/50 | Batch: 0/124 | BatchLoss: 2.36171
+Epoch: 6/50 | Batch: 10/124 | BatchLoss: 2.38954
+Epoch: 6/50 | Batch: 20/124 | BatchLoss: 2.43789
+Epoch: 6/50 | Batch: 30/124 | BatchLoss: 2.43144
+Epoch: 6/50 | Batch: 40/124 | BatchLoss: 2.41793
+Epoch: 6/50 | Batch: 50/124 | BatchLoss: 2.42180
+Epoch: 6/50 | Batch: 60/124 | BatchLoss: 2.39167
+Epoch: 6/50 | Batch: 70/124 | BatchLoss: 2.32268
+Epoch: 6/50 | Batch: 80/124 | BatchLoss: 2.33959
+Epoch: 6/50 | Batch: 90/124 | BatchLoss: 2.22683
+Epoch: 6/50 | Batch: 100/124 | BatchLoss: 2.21721
+Epoch: 6/50 | Batch: 110/124 | BatchLoss: 2.20669
+Epoch: 6/50 | Batch: 120/124 | BatchLoss: 2.07915
+Epoch: 6/50 | Loss: 2.32239, Accuracy: 38.02%, Precision: 0.37, Recall: 0.38, F1 score: 0.37
+Epoch: 7/50 | Batch: 0/124 | BatchLoss: 1.73945
+Epoch: 7/50 | Batch: 10/124 | BatchLoss: 1.84132
+Epoch: 7/50 | Batch: 20/124 | BatchLoss: 1.76646
+Epoch: 7/50 | Batch: 30/124 | BatchLoss: 1.78233
+Epoch: 7/50 | Batch: 40/124 | BatchLoss: 1.78760
+Epoch: 7/50 | Batch: 50/124 | BatchLoss: 1.64355
+Epoch: 7/50 | Batch: 60/124 | BatchLoss: 1.70567
+Epoch: 7/50 | Batch: 70/124 | BatchLoss: 1.73684
+Epoch: 7/50 | Batch: 80/124 | BatchLoss: 1.69728
+Epoch: 7/50 | Batch: 90/124 | BatchLoss: 1.63042
+Epoch: 7/50 | Batch: 100/124 | BatchLoss: 1.74261
+Epoch: 7/50 | Batch: 110/124 | BatchLoss: 1.75172
+Epoch: 7/50 | Batch: 120/124 | BatchLoss: 1.67893
+Epoch: 7/50 | Loss: 1.72635, Accuracy: 53.02%, Precision: 0.53, Recall: 0.53, F1 score: 0.52
+Epoch: 8/50 | Batch: 0/124 | BatchLoss: 1.24361
+Epoch: 8/50 | Batch: 10/124 | BatchLoss: 1.32025
+Epoch: 8/50 | Batch: 20/124 | BatchLoss: 1.26121
+Epoch: 8/50 | Batch: 30/124 | BatchLoss: 1.27368
+Epoch: 8/50 | Batch: 40/124 | BatchLoss: 1.35145
+Epoch: 8/50 | Batch: 50/124 | BatchLoss: 1.28600
+Epoch: 8/50 | Batch: 60/124 | BatchLoss: 1.27356
+Epoch: 8/50 | Batch: 70/124 | BatchLoss: 1.25192
+Epoch: 8/50 | Batch: 80/124 | BatchLoss: 1.31668
+Epoch: 8/50 | Batch: 90/124 | BatchLoss: 1.28527
+Epoch: 8/50 | Batch: 100/124 | BatchLoss: 1.18110
+Epoch: 8/50 | Batch: 110/124 | BatchLoss: 1.15742
+Epoch: 8/50 | Batch: 120/124 | BatchLoss: 1.20783
+Epoch: 8/50 | Loss: 1.26074, Accuracy: 65.29%, Precision: 0.66, Recall: 0.65, F1 score: 0.65
+Epoch: 9/50 | Batch: 0/124 | BatchLoss: 0.75386
+Epoch: 9/50 | Batch: 10/124 | BatchLoss: 0.94361
+Epoch: 9/50 | Batch: 20/124 | BatchLoss: 0.95010
+Epoch: 9/50 | Batch: 30/124 | BatchLoss: 0.91238
+Epoch: 9/50 | Batch: 40/124 | BatchLoss: 0.85492
+Epoch: 9/50 | Batch: 50/124 | BatchLoss: 0.88130
+Epoch: 9/50 | Batch: 60/124 | BatchLoss: 0.82110
+Epoch: 9/50 | Batch: 70/124 | BatchLoss: 0.85974
+Epoch: 9/50 | Batch: 80/124 | BatchLoss: 0.79601
+Epoch: 9/50 | Batch: 90/124 | BatchLoss: 0.82508
+Epoch: 9/50 | Batch: 100/124 | BatchLoss: 0.87408
+Epoch: 9/50 | Batch: 110/124 | BatchLoss: 0.93639
+Epoch: 9/50 | Batch: 120/124 | BatchLoss: 0.92765
+Epoch: 9/50 | Loss: 0.87790, Accuracy: 75.08%, Precision: 0.75, Recall: 0.75, F1 score: 0.75
+Epoch: 10/50 | Batch: 0/124 | BatchLoss: 0.53529
+Epoch: 10/50 | Batch: 10/124 | BatchLoss: 0.58706
+Epoch: 10/50 | Batch: 20/124 | BatchLoss: 0.60760
+Epoch: 10/50 | Batch: 30/124 | BatchLoss: 0.66142
+Epoch: 10/50 | Batch: 40/124 | BatchLoss: 0.67599
+Epoch: 10/50 | Batch: 50/124 | BatchLoss: 0.58199
+Epoch: 10/50 | Batch: 60/124 | BatchLoss: 0.58082
+Epoch: 10/50 | Batch: 70/124 | BatchLoss: 0.57288
+Epoch: 10/50 | Batch: 80/124 | BatchLoss: 0.54591
+Epoch: 10/50 | Batch: 90/124 | BatchLoss: 0.66923
+Epoch: 10/50 | Batch: 100/124 | BatchLoss: 0.59784
+Epoch: 10/50 | Batch: 110/124 | BatchLoss: 0.54795
+Epoch: 10/50 | Batch: 120/124 | BatchLoss: 0.58760
+Epoch: 10/50 | Loss: 0.60172, Accuracy: 83.41%, Precision: 0.83, Recall: 0.83, F1 score: 0.83
+Epoch: 11/50 | Batch: 0/124 | BatchLoss: 0.42139
+Epoch: 11/50 | Batch: 10/124 | BatchLoss: 0.42126
+Epoch: 11/50 | Batch: 20/124 | BatchLoss: 0.39181
+Epoch: 11/50 | Batch: 30/124 | BatchLoss: 0.38779
+Epoch: 11/50 | Batch: 40/124 | BatchLoss: 0.38718
+Epoch: 11/50 | Batch: 50/124 | BatchLoss: 0.35847
+Epoch: 11/50 | Batch: 60/124 | BatchLoss: 0.39526
+Epoch: 11/50 | Batch: 70/124 | BatchLoss: 0.41910
+Epoch: 11/50 | Batch: 80/124 | BatchLoss: 0.42534
+Epoch: 11/50 | Batch: 90/124 | BatchLoss: 0.39158
+Epoch: 11/50 | Batch: 100/124 | BatchLoss: 0.39356
+Epoch: 11/50 | Batch: 110/124 | BatchLoss: 0.41670
+Epoch: 11/50 | Batch: 120/124 | BatchLoss: 0.42688
+Epoch: 11/50 | Loss: 0.40539, Accuracy: 88.63%, Precision: 0.89, Recall: 0.89, F1 score: 0.89
+Epoch: 12/50 | Batch: 0/124 | BatchLoss: 0.26185
+Epoch: 12/50 | Batch: 10/124 | BatchLoss: 0.29382
+Epoch: 12/50 | Batch: 20/124 | BatchLoss: 0.25532
+Epoch: 12/50 | Batch: 30/124 | BatchLoss: 0.24285
+Epoch: 12/50 | Batch: 40/124 | BatchLoss: 0.25557
+Epoch: 12/50 | Batch: 50/124 | BatchLoss: 0.28229
+Epoch: 12/50 | Batch: 60/124 | BatchLoss: 0.27168
+Epoch: 12/50 | Batch: 70/124 | BatchLoss: 0.26553
+Epoch: 12/50 | Batch: 80/124 | BatchLoss: 0.24615
+Epoch: 12/50 | Batch: 90/124 | BatchLoss: 0.28852
+Epoch: 12/50 | Batch: 100/124 | BatchLoss: 0.26896
+Epoch: 12/50 | Batch: 110/124 | BatchLoss: 0.26700
+Epoch: 12/50 | Batch: 120/124 | BatchLoss: 0.29729
+Epoch: 12/50 | Loss: 0.27240, Accuracy: 92.62%, Precision: 0.93, Recall: 0.93, F1 score: 0.93
+Epoch: 13/50 | Batch: 0/124 | BatchLoss: 0.18149
+Epoch: 13/50 | Batch: 10/124 | BatchLoss: 0.22110
+Epoch: 13/50 | Batch: 20/124 | BatchLoss: 0.20914
+Epoch: 13/50 | Batch: 30/124 | BatchLoss: 0.18057
+Epoch: 13/50 | Batch: 40/124 | BatchLoss: 0.18793
+Epoch: 13/50 | Batch: 50/124 | BatchLoss: 0.14438
+Epoch: 13/50 | Batch: 60/124 | BatchLoss: 0.16612
+Epoch: 13/50 | Batch: 70/124 | BatchLoss: 0.14734
+Epoch: 13/50 | Batch: 80/124 | BatchLoss: 0.18688
+Epoch: 13/50 | Batch: 90/124 | BatchLoss: 0.16012
+Epoch: 13/50 | Batch: 100/124 | BatchLoss: 0.16391
+Epoch: 13/50 | Batch: 110/124 | BatchLoss: 0.17117
+Epoch: 13/50 | Batch: 120/124 | BatchLoss: 0.16675
+Epoch: 13/50 | Loss: 0.17651, Accuracy: 95.41%, Precision: 0.95, Recall: 0.95, F1 score: 0.95
+Epoch: 14/50 | Batch: 0/124 | BatchLoss: 0.05130
+Epoch: 14/50 | Batch: 10/124 | BatchLoss: 0.14817
+Epoch: 14/50 | Batch: 20/124 | BatchLoss: 0.10834
+Epoch: 14/50 | Batch: 30/124 | BatchLoss: 0.11931
+Epoch: 14/50 | Batch: 40/124 | BatchLoss: 0.08676
+Epoch: 14/50 | Batch: 50/124 | BatchLoss: 0.08561
+Epoch: 14/50 | Batch: 60/124 | BatchLoss: 0.09915
+Epoch: 14/50 | Batch: 70/124 | BatchLoss: 0.10109
+Epoch: 14/50 | Batch: 80/124 | BatchLoss: 0.08489
+Epoch: 14/50 | Batch: 90/124 | BatchLoss: 0.11355
+Epoch: 14/50 | Batch: 100/124 | BatchLoss: 0.08802
+Epoch: 14/50 | Batch: 110/124 | BatchLoss: 0.10950
+Epoch: 14/50 | Batch: 120/124 | BatchLoss: 0.09409
+Epoch: 14/50 | Loss: 0.10319, Accuracy: 97.43%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 15/50 | Batch: 0/124 | BatchLoss: 0.08307
+Epoch: 15/50 | Batch: 10/124 | BatchLoss: 0.08896
+Epoch: 15/50 | Batch: 20/124 | BatchLoss: 0.07698
+Epoch: 15/50 | Batch: 30/124 | BatchLoss: 0.08911
+Epoch: 15/50 | Batch: 40/124 | BatchLoss: 0.07358
+Epoch: 15/50 | Batch: 50/124 | BatchLoss: 0.07219
+Epoch: 15/50 | Batch: 60/124 | BatchLoss: 0.07989
+Epoch: 15/50 | Batch: 70/124 | BatchLoss: 0.08602
+Epoch: 15/50 | Batch: 80/124 | BatchLoss: 0.10920
+Epoch: 15/50 | Batch: 90/124 | BatchLoss: 0.11252
+Epoch: 15/50 | Batch: 100/124 | BatchLoss: 0.13126
+Epoch: 15/50 | Batch: 110/124 | BatchLoss: 0.11645
+Epoch: 15/50 | Batch: 120/124 | BatchLoss: 0.10486
+Epoch: 15/50 | Loss: 0.09478, Accuracy: 97.55%, Precision: 0.98, Recall: 0.97, F1 score: 0.98
+Epoch: 16/50 | Batch: 0/124 | BatchLoss: 0.08138
+Epoch: 16/50 | Batch: 10/124 | BatchLoss: 0.07001
+Epoch: 16/50 | Batch: 20/124 | BatchLoss: 0.06141
+Epoch: 16/50 | Batch: 30/124 | BatchLoss: 0.05084
+Epoch: 16/50 | Batch: 40/124 | BatchLoss: 0.05214
+Epoch: 16/50 | Batch: 50/124 | BatchLoss: 0.04255
+Epoch: 16/50 | Batch: 60/124 | BatchLoss: 0.04675
+Epoch: 16/50 | Batch: 70/124 | BatchLoss: 0.04298
+Epoch: 16/50 | Batch: 80/124 | BatchLoss: 0.04769
+Epoch: 16/50 | Batch: 90/124 | BatchLoss: 0.05306
+Epoch: 16/50 | Batch: 100/124 | BatchLoss: 0.05261
+Epoch: 16/50 | Batch: 110/124 | BatchLoss: 0.04494
+Epoch: 16/50 | Batch: 120/124 | BatchLoss: 0.04813
+Epoch: 16/50 | Loss: 0.05101, Accuracy: 99.01%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 17/50 | Batch: 0/124 | BatchLoss: 0.04340
+Epoch: 17/50 | Batch: 10/124 | BatchLoss: 0.03478
+Epoch: 17/50 | Batch: 20/124 | BatchLoss: 0.03974
+Epoch: 17/50 | Batch: 30/124 | BatchLoss: 0.04347
+Epoch: 17/50 | Batch: 40/124 | BatchLoss: 0.03851
+Epoch: 17/50 | Batch: 50/124 | BatchLoss: 0.02302
+Epoch: 17/50 | Batch: 60/124 | BatchLoss: 0.01944
+Epoch: 17/50 | Batch: 70/124 | BatchLoss: 0.02355
+Epoch: 17/50 | Batch: 80/124 | BatchLoss: 0.01911
+Epoch: 17/50 | Batch: 90/124 | BatchLoss: 0.01946
+Epoch: 17/50 | Batch: 100/124 | BatchLoss: 0.02624
+Epoch: 17/50 | Batch: 110/124 | BatchLoss: 0.03616
+Epoch: 17/50 | Batch: 120/124 | BatchLoss: 0.02666
+Epoch: 17/50 | Loss: 0.02898, Accuracy: 99.58%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 18/50 | Batch: 0/124 | BatchLoss: 0.02289
+Epoch: 18/50 | Batch: 10/124 | BatchLoss: 0.02313
+Epoch: 18/50 | Batch: 20/124 | BatchLoss: 0.02829
+Epoch: 18/50 | Batch: 30/124 | BatchLoss: 0.02581
+Epoch: 18/50 | Batch: 40/124 | BatchLoss: 0.01913
+Epoch: 18/50 | Batch: 50/124 | BatchLoss: 0.02930
+Epoch: 18/50 | Batch: 60/124 | BatchLoss: 0.04921
+Epoch: 18/50 | Batch: 70/124 | BatchLoss: 0.03506
+Epoch: 18/50 | Batch: 80/124 | BatchLoss: 0.03913
+Epoch: 18/50 | Batch: 90/124 | BatchLoss: 0.03982
+Epoch: 18/50 | Batch: 100/124 | BatchLoss: 0.04622
+Epoch: 18/50 | Batch: 110/124 | BatchLoss: 0.03683
+Epoch: 18/50 | Batch: 120/124 | BatchLoss: 0.04875
+Epoch: 18/50 | Loss: 0.03530, Accuracy: 99.20%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 19/50 | Batch: 0/124 | BatchLoss: 0.05597
+Epoch: 19/50 | Batch: 10/124 | BatchLoss: 0.03738
+Epoch: 19/50 | Batch: 20/124 | BatchLoss: 0.04241
+Epoch: 19/50 | Batch: 30/124 | BatchLoss: 0.03713
+Epoch: 19/50 | Batch: 40/124 | BatchLoss: 0.04413
+Epoch: 19/50 | Batch: 50/124 | BatchLoss: 0.06034
+Epoch: 19/50 | Batch: 60/124 | BatchLoss: 0.05795
+Epoch: 19/50 | Batch: 70/124 | BatchLoss: 0.06480
+Epoch: 19/50 | Batch: 80/124 | BatchLoss: 0.05490
+Epoch: 19/50 | Batch: 90/124 | BatchLoss: 0.06286
+Epoch: 19/50 | Batch: 100/124 | BatchLoss: 0.05375
+Epoch: 19/50 | Batch: 110/124 | BatchLoss: 0.07170
+Epoch: 19/50 | Batch: 120/124 | BatchLoss: 0.06509
+Epoch: 19/50 | Loss: 0.05448, Accuracy: 98.48%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 20/50 | Batch: 0/124 | BatchLoss: 0.09565
+Epoch: 20/50 | Batch: 10/124 | BatchLoss: 0.06591
+Epoch: 20/50 | Batch: 20/124 | BatchLoss: 0.07141
+Epoch: 20/50 | Batch: 30/124 | BatchLoss: 0.07869
+Epoch: 20/50 | Batch: 40/124 | BatchLoss: 0.09182
+Epoch: 20/50 | Batch: 50/124 | BatchLoss: 0.09215
+Epoch: 20/50 | Batch: 60/124 | BatchLoss: 0.09205
+Epoch: 20/50 | Batch: 70/124 | BatchLoss: 0.09256
+Epoch: 20/50 | Batch: 80/124 | BatchLoss: 0.11701
+Epoch: 20/50 | Batch: 90/124 | BatchLoss: 0.11660
+Epoch: 20/50 | Batch: 100/124 | BatchLoss: 0.13312
+Epoch: 20/50 | Batch: 110/124 | BatchLoss: 0.10846
+Epoch: 20/50 | Batch: 120/124 | BatchLoss: 0.08481
+Epoch: 20/50 | Loss: 0.09577, Accuracy: 97.07%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 21/50 | Batch: 0/124 | BatchLoss: 0.01961
+Epoch: 21/50 | Batch: 10/124 | BatchLoss: 0.07216
+Epoch: 21/50 | Batch: 20/124 | BatchLoss: 0.05933
+Epoch: 21/50 | Batch: 30/124 | BatchLoss: 0.10716
+Epoch: 21/50 | Batch: 40/124 | BatchLoss: 0.06330
+Epoch: 21/50 | Batch: 50/124 | BatchLoss: 0.06204
+Epoch: 21/50 | Batch: 60/124 | BatchLoss: 0.06145
+Epoch: 21/50 | Batch: 70/124 | BatchLoss: 0.05669
+Epoch: 21/50 | Batch: 80/124 | BatchLoss: 0.06647
+Epoch: 21/50 | Batch: 90/124 | BatchLoss: 0.05614
+Epoch: 21/50 | Batch: 100/124 | BatchLoss: 0.05853
+Epoch: 21/50 | Batch: 110/124 | BatchLoss: 0.04892
+Epoch: 21/50 | Batch: 120/124 | BatchLoss: 0.08183
+Epoch: 21/50 | Loss: 0.06575, Accuracy: 98.29%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 22/50 | Batch: 0/124 | BatchLoss: 0.01955
+Epoch: 22/50 | Batch: 10/124 | BatchLoss: 0.05800
+Epoch: 22/50 | Batch: 20/124 | BatchLoss: 0.03723
+Epoch: 22/50 | Batch: 30/124 | BatchLoss: 0.04720
+Epoch: 22/50 | Batch: 40/124 | BatchLoss: 0.05150
+Epoch: 22/50 | Batch: 50/124 | BatchLoss: 0.05791
+Epoch: 22/50 | Batch: 60/124 | BatchLoss: 0.05614
+Epoch: 22/50 | Batch: 70/124 | BatchLoss: 0.09589
+Epoch: 22/50 | Batch: 80/124 | BatchLoss: 0.06585
+Epoch: 22/50 | Batch: 90/124 | BatchLoss: 0.09258
+Epoch: 22/50 | Batch: 100/124 | BatchLoss: 0.06075
+Epoch: 22/50 | Batch: 110/124 | BatchLoss: 0.08475
+Epoch: 22/50 | Batch: 120/124 | BatchLoss: 0.07712
+Epoch: 22/50 | Loss: 0.06611, Accuracy: 98.03%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 23/50 | Batch: 0/124 | BatchLoss: 0.10930
+Epoch: 23/50 | Batch: 10/124 | BatchLoss: 0.06038
+Epoch: 23/50 | Batch: 20/124 | BatchLoss: 0.06535
+Epoch: 23/50 | Batch: 30/124 | BatchLoss: 0.05478
+Epoch: 23/50 | Batch: 40/124 | BatchLoss: 0.04890
+Epoch: 23/50 | Batch: 50/124 | BatchLoss: 0.05489
+Epoch: 23/50 | Batch: 60/124 | BatchLoss: 0.06643
+Epoch: 23/50 | Batch: 70/124 | BatchLoss: 0.06136
+Epoch: 23/50 | Batch: 80/124 | BatchLoss: 0.04379
+Epoch: 23/50 | Batch: 90/124 | BatchLoss: 0.03974
+Epoch: 23/50 | Batch: 100/124 | BatchLoss: 0.04949
+Epoch: 23/50 | Batch: 110/124 | BatchLoss: 0.04036
+Epoch: 23/50 | Batch: 120/124 | BatchLoss: 0.05097
+Epoch: 23/50 | Loss: 0.05287, Accuracy: 98.50%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 24/50 | Batch: 0/124 | BatchLoss: 0.04351
+Epoch: 24/50 | Batch: 10/124 | BatchLoss: 0.03482
+Epoch: 24/50 | Batch: 20/124 | BatchLoss: 0.05411
+Epoch: 24/50 | Batch: 30/124 | BatchLoss: 0.02986
+Epoch: 24/50 | Batch: 40/124 | BatchLoss: 0.03078
+Epoch: 24/50 | Batch: 50/124 | BatchLoss: 0.02695
+Epoch: 24/50 | Batch: 60/124 | BatchLoss: 0.03214
+Epoch: 24/50 | Batch: 70/124 | BatchLoss: 0.02697
+Epoch: 24/50 | Batch: 80/124 | BatchLoss: 0.02249
+Epoch: 24/50 | Batch: 90/124 | BatchLoss: 0.02402
+Epoch: 24/50 | Batch: 100/124 | BatchLoss: 0.01664
+Epoch: 24/50 | Batch: 110/124 | BatchLoss: 0.01997
+Epoch: 24/50 | Batch: 120/124 | BatchLoss: 0.01812
+Epoch: 24/50 | Loss: 0.02794, Accuracy: 99.32%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 25/50 | Batch: 0/124 | BatchLoss: 0.02075
+Epoch: 25/50 | Batch: 10/124 | BatchLoss: 0.00825
+Epoch: 25/50 | Batch: 20/124 | BatchLoss: 0.01086
+Epoch: 25/50 | Batch: 30/124 | BatchLoss: 0.01021
+Epoch: 25/50 | Batch: 40/124 | BatchLoss: 0.00609
+Epoch: 25/50 | Batch: 50/124 | BatchLoss: 0.00773
+Epoch: 25/50 | Batch: 60/124 | BatchLoss: 0.00426
+Epoch: 25/50 | Batch: 70/124 | BatchLoss: 0.01125
+Epoch: 25/50 | Batch: 80/124 | BatchLoss: 0.01080
+Epoch: 25/50 | Batch: 90/124 | BatchLoss: 0.00894
+Epoch: 25/50 | Batch: 100/124 | BatchLoss: 0.01540
+Epoch: 25/50 | Batch: 110/124 | BatchLoss: 0.00800
+Epoch: 25/50 | Batch: 120/124 | BatchLoss: 0.02074
+Epoch: 25/50 | Loss: 0.01041, Accuracy: 99.79%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 26/50 | Batch: 0/124 | BatchLoss: 0.00528
+Epoch: 26/50 | Batch: 10/124 | BatchLoss: 0.01251
+Epoch: 26/50 | Batch: 20/124 | BatchLoss: 0.01230
+Epoch: 26/50 | Batch: 30/124 | BatchLoss: 0.01118
+Epoch: 26/50 | Batch: 40/124 | BatchLoss: 0.01094
+Epoch: 26/50 | Batch: 50/124 | BatchLoss: 0.00991
+Epoch: 26/50 | Batch: 60/124 | BatchLoss: 0.01051
+Epoch: 26/50 | Batch: 70/124 | BatchLoss: 0.00605
+Epoch: 26/50 | Batch: 80/124 | BatchLoss: 0.00688
+Epoch: 26/50 | Batch: 90/124 | BatchLoss: 0.00580
+Epoch: 26/50 | Batch: 100/124 | BatchLoss: 0.00499
+Epoch: 26/50 | Batch: 110/124 | BatchLoss: 0.00922
+Epoch: 26/50 | Batch: 120/124 | BatchLoss: 0.01144
+Epoch: 26/50 | Loss: 0.00925, Accuracy: 99.76%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 27/50 | Batch: 0/124 | BatchLoss: 0.00083
+Epoch: 27/50 | Batch: 10/124 | BatchLoss: 0.00492
+Epoch: 27/50 | Batch: 20/124 | BatchLoss: 0.00647
+Epoch: 27/50 | Batch: 30/124 | BatchLoss: 0.00784
+Epoch: 27/50 | Batch: 40/124 | BatchLoss: 0.00451
+Epoch: 27/50 | Batch: 50/124 | BatchLoss: 0.00637
+Epoch: 27/50 | Batch: 60/124 | BatchLoss: 0.00496
+Epoch: 27/50 | Batch: 70/124 | BatchLoss: 0.00543
+Epoch: 27/50 | Batch: 80/124 | BatchLoss: 0.00302
+Epoch: 27/50 | Batch: 90/124 | BatchLoss: 0.00289
+Epoch: 27/50 | Batch: 100/124 | BatchLoss: 0.00400
+Epoch: 27/50 | Batch: 110/124 | BatchLoss: 0.00229
+Epoch: 27/50 | Batch: 120/124 | BatchLoss: 0.00273
+Epoch: 27/50 | Loss: 0.00453, Accuracy: 99.95%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 28/50 | Batch: 0/124 | BatchLoss: 0.00158
+Epoch: 28/50 | Batch: 10/124 | BatchLoss: 0.00165
+Epoch: 28/50 | Batch: 20/124 | BatchLoss: 0.00172
+Epoch: 28/50 | Batch: 30/124 | BatchLoss: 0.00219
+Epoch: 28/50 | Batch: 40/124 | BatchLoss: 0.00158
+Epoch: 28/50 | Batch: 50/124 | BatchLoss: 0.00148
+Epoch: 28/50 | Batch: 60/124 | BatchLoss: 0.00178
+Epoch: 28/50 | Batch: 70/124 | BatchLoss: 0.00182
+Epoch: 28/50 | Batch: 80/124 | BatchLoss: 0.00173
+Epoch: 28/50 | Batch: 90/124 | BatchLoss: 0.00183
+Epoch: 28/50 | Batch: 100/124 | BatchLoss: 0.00189
+Epoch: 28/50 | Batch: 110/124 | BatchLoss: 0.00207
+Epoch: 28/50 | Batch: 120/124 | BatchLoss: 0.00209
+Epoch: 28/50 | Loss: 0.00180, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/124 | BatchLoss: 0.00132
+Epoch: 29/50 | Batch: 10/124 | BatchLoss: 0.00115
+Epoch: 29/50 | Batch: 20/124 | BatchLoss: 0.00066
+Epoch: 29/50 | Batch: 30/124 | BatchLoss: 0.00072
+Epoch: 29/50 | Batch: 40/124 | BatchLoss: 0.00069
+Epoch: 29/50 | Batch: 50/124 | BatchLoss: 0.00080
+Epoch: 29/50 | Batch: 60/124 | BatchLoss: 0.00105
+Epoch: 29/50 | Batch: 70/124 | BatchLoss: 0.00134
+Epoch: 29/50 | Batch: 80/124 | BatchLoss: 0.00104
+Epoch: 29/50 | Batch: 90/124 | BatchLoss: 0.00099
+Epoch: 29/50 | Batch: 100/124 | BatchLoss: 0.00086
+Epoch: 29/50 | Batch: 110/124 | BatchLoss: 0.00090
+Epoch: 29/50 | Batch: 120/124 | BatchLoss: 0.00087
+Epoch: 29/50 | Loss: 0.00092, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/124 | BatchLoss: 0.00035
+Epoch: 30/50 | Batch: 10/124 | BatchLoss: 0.00060
+Epoch: 30/50 | Batch: 20/124 | BatchLoss: 0.00077
+Epoch: 30/50 | Batch: 30/124 | BatchLoss: 0.00076
+Epoch: 30/50 | Batch: 40/124 | BatchLoss: 0.00058
+Epoch: 30/50 | Batch: 50/124 | BatchLoss: 0.00073
+Epoch: 30/50 | Batch: 60/124 | BatchLoss: 0.00070
+Epoch: 30/50 | Batch: 70/124 | BatchLoss: 0.00080
+Epoch: 30/50 | Batch: 80/124 | BatchLoss: 0.00053
+Epoch: 30/50 | Batch: 90/124 | BatchLoss: 0.00053
+Epoch: 30/50 | Batch: 100/124 | BatchLoss: 0.00107
+Epoch: 30/50 | Batch: 110/124 | BatchLoss: 0.00049
+Epoch: 30/50 | Batch: 120/124 | BatchLoss: 0.00055
+Epoch: 30/50 | Loss: 0.00068, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/124 | BatchLoss: 0.00090
+Epoch: 31/50 | Batch: 10/124 | BatchLoss: 0.00046
+Epoch: 31/50 | Batch: 20/124 | BatchLoss: 0.00071
+Epoch: 31/50 | Batch: 30/124 | BatchLoss: 0.00053
+Epoch: 31/50 | Batch: 40/124 | BatchLoss: 0.00053
+Epoch: 31/50 | Batch: 50/124 | BatchLoss: 0.00042
+Epoch: 31/50 | Batch: 60/124 | BatchLoss: 0.00049
+Epoch: 31/50 | Batch: 70/124 | BatchLoss: 0.00070
+Epoch: 31/50 | Batch: 80/124 | BatchLoss: 0.00054
+Epoch: 31/50 | Batch: 90/124 | BatchLoss: 0.00047
+Epoch: 31/50 | Batch: 100/124 | BatchLoss: 0.00046
+Epoch: 31/50 | Batch: 110/124 | BatchLoss: 0.00051
+Epoch: 31/50 | Batch: 120/124 | BatchLoss: 0.00073
+Epoch: 31/50 | Loss: 0.00055, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/124 | BatchLoss: 0.00120
+Epoch: 32/50 | Batch: 10/124 | BatchLoss: 0.00040
+Epoch: 32/50 | Batch: 20/124 | BatchLoss: 0.00045
+Epoch: 32/50 | Batch: 30/124 | BatchLoss: 0.00036
+Epoch: 32/50 | Batch: 40/124 | BatchLoss: 0.00031
+Epoch: 32/50 | Batch: 50/124 | BatchLoss: 0.00055
+Epoch: 32/50 | Batch: 60/124 | BatchLoss: 0.00058
+Epoch: 32/50 | Batch: 70/124 | BatchLoss: 0.00104
+Epoch: 32/50 | Batch: 80/124 | BatchLoss: 0.00053
+Epoch: 32/50 | Batch: 90/124 | BatchLoss: 0.00071
+Epoch: 32/50 | Batch: 100/124 | BatchLoss: 0.00055
+Epoch: 32/50 | Batch: 110/124 | BatchLoss: 0.00090
+Epoch: 32/50 | Batch: 120/124 | BatchLoss: 0.00054
+Epoch: 32/50 | Loss: 0.00058, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/124 | BatchLoss: 0.00038
+Epoch: 33/50 | Batch: 10/124 | BatchLoss: 0.00029
+Epoch: 33/50 | Batch: 20/124 | BatchLoss: 0.00042
+Epoch: 33/50 | Batch: 30/124 | BatchLoss: 0.00037
+Epoch: 33/50 | Batch: 40/124 | BatchLoss: 0.00067
+Epoch: 33/50 | Batch: 50/124 | BatchLoss: 0.00044
+Epoch: 33/50 | Batch: 60/124 | BatchLoss: 0.00033
+Epoch: 33/50 | Batch: 70/124 | BatchLoss: 0.00035
+Epoch: 33/50 | Batch: 80/124 | BatchLoss: 0.00032
+Epoch: 33/50 | Batch: 90/124 | BatchLoss: 0.00036
+Epoch: 33/50 | Batch: 100/124 | BatchLoss: 0.00043
+Epoch: 33/50 | Batch: 110/124 | BatchLoss: 0.00030
+Epoch: 33/50 | Batch: 120/124 | BatchLoss: 0.00033
+Epoch: 33/50 | Loss: 0.00039, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/124 | BatchLoss: 0.00022
+Epoch: 34/50 | Batch: 10/124 | BatchLoss: 0.00039
+Epoch: 34/50 | Batch: 20/124 | BatchLoss: 0.00033
+Epoch: 34/50 | Batch: 30/124 | BatchLoss: 0.00029
+Epoch: 34/50 | Batch: 40/124 | BatchLoss: 0.00029
+Epoch: 34/50 | Batch: 50/124 | BatchLoss: 0.00036
+Epoch: 34/50 | Batch: 60/124 | BatchLoss: 0.00037
+Epoch: 34/50 | Batch: 70/124 | BatchLoss: 0.00031
+Epoch: 34/50 | Batch: 80/124 | BatchLoss: 0.00034
+Epoch: 34/50 | Batch: 90/124 | BatchLoss: 0.00041
+Epoch: 34/50 | Batch: 100/124 | BatchLoss: 0.00064
+Epoch: 34/50 | Batch: 110/124 | BatchLoss: 0.00035
+Epoch: 34/50 | Batch: 120/124 | BatchLoss: 0.00043
+Epoch: 34/50 | Loss: 0.00037, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/124 | BatchLoss: 0.00037
+Epoch: 35/50 | Batch: 10/124 | BatchLoss: 0.00029
+Epoch: 35/50 | Batch: 20/124 | BatchLoss: 0.00039
+Epoch: 35/50 | Batch: 30/124 | BatchLoss: 0.00027
+Epoch: 35/50 | Batch: 40/124 | BatchLoss: 0.00031
+Epoch: 35/50 | Batch: 50/124 | BatchLoss: 0.00024
+Epoch: 35/50 | Batch: 60/124 | BatchLoss: 0.00028
+Epoch: 35/50 | Batch: 70/124 | BatchLoss: 0.00064
+Epoch: 35/50 | Batch: 80/124 | BatchLoss: 0.00047
+Epoch: 35/50 | Batch: 90/124 | BatchLoss: 0.00026
+Epoch: 35/50 | Batch: 100/124 | BatchLoss: 0.00040
+Epoch: 35/50 | Batch: 110/124 | BatchLoss: 0.00031
+Epoch: 35/50 | Batch: 120/124 | BatchLoss: 0.00039
+Epoch: 35/50 | Loss: 0.00035, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/124 | BatchLoss: 0.00028
+Epoch: 36/50 | Batch: 10/124 | BatchLoss: 0.00027
+Epoch: 36/50 | Batch: 20/124 | BatchLoss: 0.00032
+Epoch: 36/50 | Batch: 30/124 | BatchLoss: 0.00022
+Epoch: 36/50 | Batch: 40/124 | BatchLoss: 0.00023
+Epoch: 36/50 | Batch: 50/124 | BatchLoss: 0.00025
+Epoch: 36/50 | Batch: 60/124 | BatchLoss: 0.00030
+Epoch: 36/50 | Batch: 70/124 | BatchLoss: 0.00026
+Epoch: 36/50 | Batch: 80/124 | BatchLoss: 0.00023
+Epoch: 36/50 | Batch: 90/124 | BatchLoss: 0.00036
+Epoch: 36/50 | Batch: 100/124 | BatchLoss: 0.00023
+Epoch: 36/50 | Batch: 110/124 | BatchLoss: 0.00024
+Epoch: 36/50 | Batch: 120/124 | BatchLoss: 0.00021
+Epoch: 36/50 | Loss: 0.00026, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/124 | BatchLoss: 0.00028
+Epoch: 37/50 | Batch: 10/124 | BatchLoss: 0.00018
+Epoch: 37/50 | Batch: 20/124 | BatchLoss: 0.00028
+Epoch: 37/50 | Batch: 30/124 | BatchLoss: 0.00021
+Epoch: 37/50 | Batch: 40/124 | BatchLoss: 0.00019
+Epoch: 37/50 | Batch: 50/124 | BatchLoss: 0.00019
+Epoch: 37/50 | Batch: 60/124 | BatchLoss: 0.00022
+Epoch: 37/50 | Batch: 70/124 | BatchLoss: 0.00018
+Epoch: 37/50 | Batch: 80/124 | BatchLoss: 0.00029
+Epoch: 37/50 | Batch: 90/124 | BatchLoss: 0.00028
+Epoch: 37/50 | Batch: 100/124 | BatchLoss: 0.00019
+Epoch: 37/50 | Batch: 110/124 | BatchLoss: 0.00029
+Epoch: 37/50 | Batch: 120/124 | BatchLoss: 0.00019
+Epoch: 37/50 | Loss: 0.00022, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/124 | BatchLoss: 0.00010
+Epoch: 38/50 | Batch: 10/124 | BatchLoss: 0.00013
+Epoch: 38/50 | Batch: 20/124 | BatchLoss: 0.00014
+Epoch: 38/50 | Batch: 30/124 | BatchLoss: 0.00018
+Epoch: 38/50 | Batch: 40/124 | BatchLoss: 0.00018
+Epoch: 38/50 | Batch: 50/124 | BatchLoss: 0.00019
+Epoch: 38/50 | Batch: 60/124 | BatchLoss: 0.00018
+Epoch: 38/50 | Batch: 70/124 | BatchLoss: 0.00022
+Epoch: 38/50 | Batch: 80/124 | BatchLoss: 0.00025
+Epoch: 38/50 | Batch: 90/124 | BatchLoss: 0.00021
+Epoch: 38/50 | Batch: 100/124 | BatchLoss: 0.00028
+Epoch: 38/50 | Batch: 110/124 | BatchLoss: 0.00022
+Epoch: 38/50 | Batch: 120/124 | BatchLoss: 0.00020
+Epoch: 38/50 | Loss: 0.00020, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/124 | BatchLoss: 0.00018
+Epoch: 39/50 | Batch: 10/124 | BatchLoss: 0.00021
+Epoch: 39/50 | Batch: 20/124 | BatchLoss: 0.00017
+Epoch: 39/50 | Batch: 30/124 | BatchLoss: 0.00022
+Epoch: 39/50 | Batch: 40/124 | BatchLoss: 0.00017
+Epoch: 39/50 | Batch: 50/124 | BatchLoss: 0.00019
+Epoch: 39/50 | Batch: 60/124 | BatchLoss: 0.00014
+Epoch: 39/50 | Batch: 70/124 | BatchLoss: 0.00022
+Epoch: 39/50 | Batch: 80/124 | BatchLoss: 0.00021
+Epoch: 39/50 | Batch: 90/124 | BatchLoss: 0.00016
+Epoch: 39/50 | Batch: 100/124 | BatchLoss: 0.00019
+Epoch: 39/50 | Batch: 110/124 | BatchLoss: 0.00027
+Epoch: 39/50 | Batch: 120/124 | BatchLoss: 0.00014
+Epoch: 39/50 | Loss: 0.00019, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/124 | BatchLoss: 0.00010
+Epoch: 40/50 | Batch: 10/124 | BatchLoss: 0.00018
+Epoch: 40/50 | Batch: 20/124 | BatchLoss: 0.00014
+Epoch: 40/50 | Batch: 30/124 | BatchLoss: 0.00014
+Epoch: 40/50 | Batch: 40/124 | BatchLoss: 0.00016
+Epoch: 40/50 | Batch: 50/124 | BatchLoss: 0.00018
+Epoch: 40/50 | Batch: 60/124 | BatchLoss: 0.00030
+Epoch: 40/50 | Batch: 70/124 | BatchLoss: 0.00019
+Epoch: 40/50 | Batch: 80/124 | BatchLoss: 0.00016
+Epoch: 40/50 | Batch: 90/124 | BatchLoss: 0.00015
+Epoch: 40/50 | Batch: 100/124 | BatchLoss: 0.00014
+Epoch: 40/50 | Batch: 110/124 | BatchLoss: 0.00026
+Epoch: 40/50 | Batch: 120/124 | BatchLoss: 0.00026
+Epoch: 40/50 | Loss: 0.00019, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/124 | BatchLoss: 0.00012
+Epoch: 41/50 | Batch: 10/124 | BatchLoss: 0.00017
+Epoch: 41/50 | Batch: 20/124 | BatchLoss: 0.00022
+Epoch: 41/50 | Batch: 30/124 | BatchLoss: 0.00013
+Epoch: 41/50 | Batch: 40/124 | BatchLoss: 0.00020
+Epoch: 41/50 | Batch: 50/124 | BatchLoss: 0.00017
+Epoch: 41/50 | Batch: 60/124 | BatchLoss: 0.00015
+Epoch: 41/50 | Batch: 70/124 | BatchLoss: 0.00027
+Epoch: 41/50 | Batch: 80/124 | BatchLoss: 0.00014
+Epoch: 41/50 | Batch: 90/124 | BatchLoss: 0.00017
+Epoch: 41/50 | Batch: 100/124 | BatchLoss: 0.00015
+Epoch: 41/50 | Batch: 110/124 | BatchLoss: 0.00016
+Epoch: 41/50 | Batch: 120/124 | BatchLoss: 0.00018
+Epoch: 41/50 | Loss: 0.00018, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/124 | BatchLoss: 0.00014
+Epoch: 42/50 | Batch: 10/124 | BatchLoss: 0.00018
+Epoch: 42/50 | Batch: 20/124 | BatchLoss: 0.00018
+Epoch: 42/50 | Batch: 30/124 | BatchLoss: 0.00014
+Epoch: 42/50 | Batch: 40/124 | BatchLoss: 0.00017
+Epoch: 42/50 | Batch: 50/124 | BatchLoss: 0.00014
+Epoch: 42/50 | Batch: 60/124 | BatchLoss: 0.00014
+Epoch: 42/50 | Batch: 70/124 | BatchLoss: 0.00015
+Epoch: 42/50 | Batch: 80/124 | BatchLoss: 0.00015
+Epoch: 42/50 | Batch: 90/124 | BatchLoss: 0.00015
+Epoch: 42/50 | Batch: 100/124 | BatchLoss: 0.00015
+Epoch: 42/50 | Batch: 110/124 | BatchLoss: 0.00013
+Epoch: 42/50 | Batch: 120/124 | BatchLoss: 0.00016
+Epoch: 42/50 | Loss: 0.00015, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 43/50 | Batch: 0/124 | BatchLoss: 0.00029
+Epoch: 43/50 | Batch: 10/124 | BatchLoss: 0.00022
+Epoch: 43/50 | Batch: 20/124 | BatchLoss: 0.00012
+Epoch: 43/50 | Batch: 30/124 | BatchLoss: 0.00014
+Epoch: 43/50 | Batch: 40/124 | BatchLoss: 0.00017
+Epoch: 43/50 | Batch: 50/124 | BatchLoss: 0.00016
+Epoch: 43/50 | Batch: 60/124 | BatchLoss: 0.00017
+Epoch: 43/50 | Batch: 70/124 | BatchLoss: 0.00022
+Epoch: 43/50 | Batch: 80/124 | BatchLoss: 0.00013
+Epoch: 43/50 | Batch: 90/124 | BatchLoss: 0.00012
+Epoch: 43/50 | Batch: 100/124 | BatchLoss: 0.00018
+Epoch: 43/50 | Batch: 110/124 | BatchLoss: 0.00012
+Epoch: 43/50 | Batch: 120/124 | BatchLoss: 0.00015
+Epoch: 43/50 | Loss: 0.00016, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 44/50 | Batch: 0/124 | BatchLoss: 0.00013
+Epoch: 44/50 | Batch: 10/124 | BatchLoss: 0.00021
+Epoch: 44/50 | Batch: 20/124 | BatchLoss: 0.00024
+Epoch: 44/50 | Batch: 30/124 | BatchLoss: 0.00023
+Epoch: 44/50 | Batch: 40/124 | BatchLoss: 0.00013
+Epoch: 44/50 | Batch: 50/124 | BatchLoss: 0.00012
+Epoch: 44/50 | Batch: 60/124 | BatchLoss: 0.00013
+Epoch: 44/50 | Batch: 70/124 | BatchLoss: 0.00021
+Epoch: 44/50 | Batch: 80/124 | BatchLoss: 0.00010
+Epoch: 44/50 | Batch: 90/124 | BatchLoss: 0.00021
+Epoch: 44/50 | Batch: 100/124 | BatchLoss: 0.00016
+Epoch: 44/50 | Batch: 110/124 | BatchLoss: 0.00015
+Epoch: 44/50 | Batch: 120/124 | BatchLoss: 0.00013
+Epoch: 44/50 | Loss: 0.00017, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 45/50 | Batch: 0/124 | BatchLoss: 0.00018
+Epoch: 45/50 | Batch: 10/124 | BatchLoss: 0.00018
+Epoch: 45/50 | Batch: 20/124 | BatchLoss: 0.00014
+Epoch: 45/50 | Batch: 30/124 | BatchLoss: 0.00011
+Epoch: 45/50 | Batch: 40/124 | BatchLoss: 0.00016
+Epoch: 45/50 | Batch: 50/124 | BatchLoss: 0.00013
+Epoch: 45/50 | Batch: 60/124 | BatchLoss: 0.00012
+Epoch: 45/50 | Batch: 70/124 | BatchLoss: 0.00013
+Epoch: 45/50 | Batch: 80/124 | BatchLoss: 0.00014
+Epoch: 45/50 | Batch: 90/124 | BatchLoss: 0.00013
+Epoch: 45/50 | Batch: 100/124 | BatchLoss: 0.00012
+Epoch: 45/50 | Batch: 110/124 | BatchLoss: 0.00010
+Epoch: 45/50 | Batch: 120/124 | BatchLoss: 0.00016
+Epoch: 45/50 | Loss: 0.00013, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 46/50 | Batch: 0/124 | BatchLoss: 0.00009
+Epoch: 46/50 | Batch: 10/124 | BatchLoss: 0.00017
+Epoch: 46/50 | Batch: 20/124 | BatchLoss: 0.00018
+Epoch: 46/50 | Batch: 30/124 | BatchLoss: 0.00013
+Epoch: 46/50 | Batch: 40/124 | BatchLoss: 0.00011
+Epoch: 46/50 | Batch: 50/124 | BatchLoss: 0.00016
+Epoch: 46/50 | Batch: 60/124 | BatchLoss: 0.00009
+Epoch: 46/50 | Batch: 70/124 | BatchLoss: 0.00009
+Epoch: 46/50 | Batch: 80/124 | BatchLoss: 0.00008
+Epoch: 46/50 | Batch: 90/124 | BatchLoss: 0.00010
+Epoch: 46/50 | Batch: 100/124 | BatchLoss: 0.00012
+Epoch: 46/50 | Batch: 110/124 | BatchLoss: 0.00011
+Epoch: 46/50 | Batch: 120/124 | BatchLoss: 0.00010
+Epoch: 46/50 | Loss: 0.00012, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 47/50 | Batch: 0/124 | BatchLoss: 0.00008
+Epoch: 47/50 | Batch: 10/124 | BatchLoss: 0.00008
+Epoch: 47/50 | Batch: 20/124 | BatchLoss: 0.00008
+Epoch: 47/50 | Batch: 30/124 | BatchLoss: 0.00015
+Epoch: 47/50 | Batch: 40/124 | BatchLoss: 0.00008
+Epoch: 47/50 | Batch: 50/124 | BatchLoss: 0.00010
+Epoch: 47/50 | Batch: 60/124 | BatchLoss: 0.00010
+Epoch: 47/50 | Batch: 70/124 | BatchLoss: 0.00010
+Epoch: 47/50 | Batch: 80/124 | BatchLoss: 0.00010
+Epoch: 47/50 | Batch: 90/124 | BatchLoss: 0.00011
+Epoch: 47/50 | Batch: 100/124 | BatchLoss: 0.00009
+Epoch: 47/50 | Batch: 110/124 | BatchLoss: 0.00011
+Epoch: 47/50 | Batch: 120/124 | BatchLoss: 0.00013
+Epoch: 47/50 | Loss: 0.00010, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 48/50 | Batch: 0/124 | BatchLoss: 0.00008
+Epoch: 48/50 | Batch: 10/124 | BatchLoss: 0.00008
+Epoch: 48/50 | Batch: 20/124 | BatchLoss: 0.00010
+Epoch: 48/50 | Batch: 30/124 | BatchLoss: 0.00014
+Epoch: 48/50 | Batch: 40/124 | BatchLoss: 0.00008
+Epoch: 48/50 | Batch: 50/124 | BatchLoss: 0.00010
+Epoch: 48/50 | Batch: 60/124 | BatchLoss: 0.00014
+Epoch: 48/50 | Batch: 70/124 | BatchLoss: 0.00009
+Epoch: 48/50 | Batch: 80/124 | BatchLoss: 0.00010
+Epoch: 48/50 | Batch: 90/124 | BatchLoss: 0.00013
+Epoch: 48/50 | Batch: 100/124 | BatchLoss: 0.00012
+Epoch: 48/50 | Batch: 110/124 | BatchLoss: 0.00013
+Epoch: 48/50 | Batch: 120/124 | BatchLoss: 0.00010
+Epoch: 48/50 | Loss: 0.00011, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 49/50 | Batch: 0/124 | BatchLoss: 0.00014
+Epoch: 49/50 | Batch: 10/124 | BatchLoss: 0.00012
+Epoch: 49/50 | Batch: 20/124 | BatchLoss: 0.00009
+Epoch: 49/50 | Batch: 30/124 | BatchLoss: 0.00007
+Epoch: 49/50 | Batch: 40/124 | BatchLoss: 0.00009
+Epoch: 49/50 | Batch: 50/124 | BatchLoss: 0.00011
+Epoch: 49/50 | Batch: 60/124 | BatchLoss: 0.00009
+Epoch: 49/50 | Batch: 70/124 | BatchLoss: 0.00007
+Epoch: 49/50 | Batch: 80/124 | BatchLoss: 0.00006
+Epoch: 49/50 | Batch: 90/124 | BatchLoss: 0.00010
+Epoch: 49/50 | Batch: 100/124 | BatchLoss: 0.00008
+Epoch: 49/50 | Batch: 110/124 | BatchLoss: 0.00009
+Epoch: 49/50 | Batch: 120/124 | BatchLoss: 0.00011
+Epoch: 49/50 | Loss: 0.00009, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/124 | BatchLoss: 0.00007
+Epoch: 50/50 | Batch: 10/124 | BatchLoss: 0.00010
+Epoch: 50/50 | Batch: 20/124 | BatchLoss: 0.00008
+Epoch: 50/50 | Batch: 30/124 | BatchLoss: 0.00011
+Epoch: 50/50 | Batch: 40/124 | BatchLoss: 0.00007
+Epoch: 50/50 | Batch: 50/124 | BatchLoss: 0.00013
+Epoch: 50/50 | Batch: 60/124 | BatchLoss: 0.00009
+Epoch: 50/50 | Batch: 70/124 | BatchLoss: 0.00008
+Epoch: 50/50 | Batch: 80/124 | BatchLoss: 0.00010
+Epoch: 50/50 | Batch: 90/124 | BatchLoss: 0.00013
+Epoch: 50/50 | Batch: 100/124 | BatchLoss: 0.00009
+Epoch: 50/50 | Batch: 110/124 | BatchLoss: 0.00008
+Epoch: 50/50 | Batch: 120/124 | BatchLoss: 0.00011
+Epoch: 50/50 | Loss: 0.00010, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 1.10185, Test acc: 80.28%Test Precison: 0.82, Test Recall: 0.8028311425682507, Test F1: 0.80371792322321
+100
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/63 | BatchLoss: 4.59560
+Epoch: 1/50 | Batch: 10/63 | BatchLoss: 4.61793
+Epoch: 1/50 | Batch: 20/63 | BatchLoss: 4.61458
+Epoch: 1/50 | Batch: 30/63 | BatchLoss: 4.59373
+Epoch: 1/50 | Batch: 40/63 | BatchLoss: 4.58801
+Epoch: 1/50 | Batch: 50/63 | BatchLoss: 4.58385
+Epoch: 1/50 | Batch: 60/63 | BatchLoss: 4.56700
+Epoch: 1/50 | Loss: 4.59306, Accuracy: 1.00%, Precision: 0.00, Recall: 0.01, F1 score: 0.00
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 2/50 | Batch: 0/63 | BatchLoss: 4.50145
+Epoch: 2/50 | Batch: 10/63 | BatchLoss: 4.51201
+Epoch: 2/50 | Batch: 20/63 | BatchLoss: 4.52757
+Epoch: 2/50 | Batch: 30/63 | BatchLoss: 4.51365
+Epoch: 2/50 | Batch: 40/63 | BatchLoss: 4.50171
+Epoch: 2/50 | Batch: 50/63 | BatchLoss: 4.50266
+Epoch: 2/50 | Batch: 60/63 | BatchLoss: 4.45646
+Epoch: 2/50 | Loss: 4.50158, Accuracy: 2.46%, Precision: 0.01, Recall: 0.02, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 3/50 | Batch: 0/63 | BatchLoss: 4.39215
+Epoch: 3/50 | Batch: 10/63 | BatchLoss: 4.38192
+Epoch: 3/50 | Batch: 20/63 | BatchLoss: 4.36225
+Epoch: 3/50 | Batch: 30/63 | BatchLoss: 4.37285
+Epoch: 3/50 | Batch: 40/63 | BatchLoss: 4.31888
+Epoch: 3/50 | Batch: 50/63 | BatchLoss: 4.34587
+Epoch: 3/50 | Batch: 60/63 | BatchLoss: 4.28743
+Epoch: 3/50 | Loss: 4.34492, Accuracy: 2.88%, Precision: 0.01, Recall: 0.03, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 4/50 | Batch: 0/63 | BatchLoss: 4.23238
+Epoch: 4/50 | Batch: 10/63 | BatchLoss: 4.19556
+Epoch: 4/50 | Batch: 20/63 | BatchLoss: 4.18847
+Epoch: 4/50 | Batch: 30/63 | BatchLoss: 4.17284
+Epoch: 4/50 | Batch: 40/63 | BatchLoss: 4.24730
+Epoch: 4/50 | Batch: 50/63 | BatchLoss: 4.14746
+Epoch: 4/50 | Batch: 60/63 | BatchLoss: 4.16654
+Epoch: 4/50 | Loss: 4.18546, Accuracy: 4.01%, Precision: 0.03, Recall: 0.04, F1 score: 0.02
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 5/50 | Batch: 0/63 | BatchLoss: 3.99726
+Epoch: 5/50 | Batch: 10/63 | BatchLoss: 4.05519
+Epoch: 5/50 | Batch: 20/63 | BatchLoss: 4.02394
+Epoch: 5/50 | Batch: 30/63 | BatchLoss: 4.02336
+Epoch: 5/50 | Batch: 40/63 | BatchLoss: 3.95186
+Epoch: 5/50 | Batch: 50/63 | BatchLoss: 3.93412
+Epoch: 5/50 | Batch: 60/63 | BatchLoss: 3.89547
+Epoch: 5/50 | Loss: 3.97796, Accuracy: 6.12%, Precision: 0.04, Recall: 0.06, F1 score: 0.04
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 6/50 | Batch: 0/63 | BatchLoss: 3.70539
+Epoch: 6/50 | Batch: 10/63 | BatchLoss: 3.76656
+Epoch: 6/50 | Batch: 20/63 | BatchLoss: 3.73296
+Epoch: 6/50 | Batch: 30/63 | BatchLoss: 3.69774
+Epoch: 6/50 | Batch: 40/63 | BatchLoss: 3.64297
+Epoch: 6/50 | Batch: 50/63 | BatchLoss: 3.68314
+Epoch: 6/50 | Batch: 60/63 | BatchLoss: 3.60207
+Epoch: 6/50 | Loss: 3.68764, Accuracy: 9.57%, Precision: 0.08, Recall: 0.09, F1 score: 0.07
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 7/50 | Batch: 0/63 | BatchLoss: 3.61568
+Epoch: 7/50 | Batch: 10/63 | BatchLoss: 3.38697
+Epoch: 7/50 | Batch: 20/63 | BatchLoss: 3.34799
+Epoch: 7/50 | Batch: 30/63 | BatchLoss: 3.33683
+Epoch: 7/50 | Batch: 40/63 | BatchLoss: 3.29024
+Epoch: 7/50 | Batch: 50/63 | BatchLoss: 3.30094
+Epoch: 7/50 | Batch: 60/63 | BatchLoss: 3.29503
+Epoch: 7/50 | Loss: 3.32917, Accuracy: 15.16%, Precision: 0.14, Recall: 0.15, F1 score: 0.13
+Epoch: 8/50 | Batch: 0/63 | BatchLoss: 2.86659
+Epoch: 8/50 | Batch: 10/63 | BatchLoss: 3.04153
+Epoch: 8/50 | Batch: 20/63 | BatchLoss: 2.95058
+Epoch: 8/50 | Batch: 30/63 | BatchLoss: 2.96143
+Epoch: 8/50 | Batch: 40/63 | BatchLoss: 2.86118
+Epoch: 8/50 | Batch: 50/63 | BatchLoss: 2.96280
+Epoch: 8/50 | Batch: 60/63 | BatchLoss: 2.83767
+Epoch: 8/50 | Loss: 2.93230, Accuracy: 22.53%, Precision: 0.21, Recall: 0.22, F1 score: 0.20
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 9/50 | Batch: 0/63 | BatchLoss: 2.41026
+Epoch: 9/50 | Batch: 10/63 | BatchLoss: 2.59397
+Epoch: 9/50 | Batch: 20/63 | BatchLoss: 2.61983
+Epoch: 9/50 | Batch: 30/63 | BatchLoss: 2.54727
+Epoch: 9/50 | Batch: 40/63 | BatchLoss: 2.52836
+Epoch: 9/50 | Batch: 50/63 | BatchLoss: 2.50143
+Epoch: 9/50 | Batch: 60/63 | BatchLoss: 2.51665
+Epoch: 9/50 | Loss: 2.54421, Accuracy: 31.15%, Precision: 0.30, Recall: 0.31, F1 score: 0.29
+Epoch: 10/50 | Batch: 0/63 | BatchLoss: 2.13218
+Epoch: 10/50 | Batch: 10/63 | BatchLoss: 2.06136
+Epoch: 10/50 | Batch: 20/63 | BatchLoss: 2.15581
+Epoch: 10/50 | Batch: 30/63 | BatchLoss: 2.04545
+Epoch: 10/50 | Batch: 40/63 | BatchLoss: 2.31626
+Epoch: 10/50 | Batch: 50/63 | BatchLoss: 2.12889
+Epoch: 10/50 | Batch: 60/63 | BatchLoss: 2.01053
+Epoch: 10/50 | Loss: 2.10983, Accuracy: 41.03%, Precision: 0.40, Recall: 0.41, F1 score: 0.40
+Epoch: 11/50 | Batch: 0/63 | BatchLoss: 1.62337
+Epoch: 11/50 | Batch: 10/63 | BatchLoss: 1.74682
+Epoch: 11/50 | Batch: 20/63 | BatchLoss: 1.63791
+Epoch: 11/50 | Batch: 30/63 | BatchLoss: 1.68521
+Epoch: 11/50 | Batch: 40/63 | BatchLoss: 1.76266
+Epoch: 11/50 | Batch: 50/63 | BatchLoss: 1.66513
+Epoch: 11/50 | Batch: 60/63 | BatchLoss: 1.59336
+Epoch: 11/50 | Loss: 1.68111, Accuracy: 53.16%, Precision: 0.53, Recall: 0.53, F1 score: 0.52
+Epoch: 12/50 | Batch: 0/63 | BatchLoss: 1.34723
+Epoch: 12/50 | Batch: 10/63 | BatchLoss: 1.32728
+Epoch: 12/50 | Batch: 20/63 | BatchLoss: 1.32480
+Epoch: 12/50 | Batch: 30/63 | BatchLoss: 1.26185
+Epoch: 12/50 | Batch: 40/63 | BatchLoss: 1.25210
+Epoch: 12/50 | Batch: 50/63 | BatchLoss: 1.32939
+Epoch: 12/50 | Batch: 60/63 | BatchLoss: 1.25408
+Epoch: 12/50 | Loss: 1.29110, Accuracy: 63.66%, Precision: 0.63, Recall: 0.63, F1 score: 0.63
+Epoch: 13/50 | Batch: 0/63 | BatchLoss: 1.10468
+Epoch: 13/50 | Batch: 10/63 | BatchLoss: 1.11454
+Epoch: 13/50 | Batch: 20/63 | BatchLoss: 0.98652
+Epoch: 13/50 | Batch: 30/63 | BatchLoss: 1.06734
+Epoch: 13/50 | Batch: 40/63 | BatchLoss: 1.02772
+Epoch: 13/50 | Batch: 50/63 | BatchLoss: 0.88791
+Epoch: 13/50 | Batch: 60/63 | BatchLoss: 0.99027
+Epoch: 13/50 | Loss: 1.01172, Accuracy: 71.73%, Precision: 0.72, Recall: 0.71, F1 score: 0.71
+Epoch: 14/50 | Batch: 0/63 | BatchLoss: 0.62789
+Epoch: 14/50 | Batch: 10/63 | BatchLoss: 0.70940
+Epoch: 14/50 | Batch: 20/63 | BatchLoss: 0.86843
+Epoch: 14/50 | Batch: 30/63 | BatchLoss: 0.63731
+Epoch: 14/50 | Batch: 40/63 | BatchLoss: 0.66005
+Epoch: 14/50 | Batch: 50/63 | BatchLoss: 0.64610
+Epoch: 14/50 | Batch: 60/63 | BatchLoss: 0.67288
+Epoch: 14/50 | Loss: 0.69619, Accuracy: 81.55%, Precision: 0.82, Recall: 0.81, F1 score: 0.81
+Epoch: 15/50 | Batch: 0/63 | BatchLoss: 0.39792
+Epoch: 15/50 | Batch: 10/63 | BatchLoss: 0.50070
+Epoch: 15/50 | Batch: 20/63 | BatchLoss: 0.45568
+Epoch: 15/50 | Batch: 30/63 | BatchLoss: 0.52278
+Epoch: 15/50 | Batch: 40/63 | BatchLoss: 0.49135
+Epoch: 15/50 | Batch: 50/63 | BatchLoss: 0.45220
+Epoch: 15/50 | Batch: 60/63 | BatchLoss: 0.45199
+Epoch: 15/50 | Loss: 0.47468, Accuracy: 87.89%, Precision: 0.88, Recall: 0.88, F1 score: 0.88
+Epoch: 16/50 | Batch: 0/63 | BatchLoss: 0.40285
+Epoch: 16/50 | Batch: 10/63 | BatchLoss: 0.26934
+Epoch: 16/50 | Batch: 20/63 | BatchLoss: 0.27571
+Epoch: 16/50 | Batch: 30/63 | BatchLoss: 0.27735
+Epoch: 16/50 | Batch: 40/63 | BatchLoss: 0.28693
+Epoch: 16/50 | Batch: 50/63 | BatchLoss: 0.32147
+Epoch: 16/50 | Batch: 60/63 | BatchLoss: 0.33831
+Epoch: 16/50 | Loss: 0.29680, Accuracy: 93.06%, Precision: 0.93, Recall: 0.93, F1 score: 0.93
+Epoch: 17/50 | Batch: 0/63 | BatchLoss: 0.21003
+Epoch: 17/50 | Batch: 10/63 | BatchLoss: 0.25963
+Epoch: 17/50 | Batch: 20/63 | BatchLoss: 0.25836
+Epoch: 17/50 | Batch: 30/63 | BatchLoss: 0.24144
+Epoch: 17/50 | Batch: 40/63 | BatchLoss: 0.21976
+Epoch: 17/50 | Batch: 50/63 | BatchLoss: 0.22948
+Epoch: 17/50 | Batch: 60/63 | BatchLoss: 0.27238
+Epoch: 17/50 | Loss: 0.24598, Accuracy: 93.93%, Precision: 0.94, Recall: 0.94, F1 score: 0.94
+Epoch: 18/50 | Batch: 0/63 | BatchLoss: 0.16267
+Epoch: 18/50 | Batch: 10/63 | BatchLoss: 0.21752
+Epoch: 18/50 | Batch: 20/63 | BatchLoss: 0.19341
+Epoch: 18/50 | Batch: 30/63 | BatchLoss: 0.22405
+Epoch: 18/50 | Batch: 40/63 | BatchLoss: 0.19332
+Epoch: 18/50 | Batch: 50/63 | BatchLoss: 0.26707
+Epoch: 18/50 | Batch: 60/63 | BatchLoss: 0.22862
+Epoch: 18/50 | Loss: 0.21985, Accuracy: 94.44%, Precision: 0.94, Recall: 0.94, F1 score: 0.94
+Epoch: 19/50 | Batch: 0/63 | BatchLoss: 0.18882
+Epoch: 19/50 | Batch: 10/63 | BatchLoss: 0.18006
+Epoch: 19/50 | Batch: 20/63 | BatchLoss: 0.13206
+Epoch: 19/50 | Batch: 30/63 | BatchLoss: 0.14825
+Epoch: 19/50 | Batch: 40/63 | BatchLoss: 0.11928
+Epoch: 19/50 | Batch: 50/63 | BatchLoss: 0.15159
+Epoch: 19/50 | Batch: 60/63 | BatchLoss: 0.13898
+Epoch: 19/50 | Loss: 0.14653, Accuracy: 96.54%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 20/50 | Batch: 0/63 | BatchLoss: 0.11646
+Epoch: 20/50 | Batch: 10/63 | BatchLoss: 0.12324
+Epoch: 20/50 | Batch: 20/63 | BatchLoss: 0.13900
+Epoch: 20/50 | Batch: 30/63 | BatchLoss: 0.13076
+Epoch: 20/50 | Batch: 40/63 | BatchLoss: 0.10999
+Epoch: 20/50 | Batch: 50/63 | BatchLoss: 0.11162
+Epoch: 20/50 | Batch: 60/63 | BatchLoss: 0.09350
+Epoch: 20/50 | Loss: 0.11828, Accuracy: 97.34%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 21/50 | Batch: 0/63 | BatchLoss: 0.05619
+Epoch: 21/50 | Batch: 10/63 | BatchLoss: 0.08910
+Epoch: 21/50 | Batch: 20/63 | BatchLoss: 0.07157
+Epoch: 21/50 | Batch: 30/63 | BatchLoss: 0.05519
+Epoch: 21/50 | Batch: 40/63 | BatchLoss: 0.06573
+Epoch: 21/50 | Batch: 50/63 | BatchLoss: 0.05137
+Epoch: 21/50 | Batch: 60/63 | BatchLoss: 0.05256
+Epoch: 21/50 | Loss: 0.06499, Accuracy: 98.75%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 22/50 | Batch: 0/63 | BatchLoss: 0.02103
+Epoch: 22/50 | Batch: 10/63 | BatchLoss: 0.06982
+Epoch: 22/50 | Batch: 20/63 | BatchLoss: 0.07801
+Epoch: 22/50 | Batch: 30/63 | BatchLoss: 0.06710
+Epoch: 22/50 | Batch: 40/63 | BatchLoss: 0.06813
+Epoch: 22/50 | Batch: 50/63 | BatchLoss: 0.07648
+Epoch: 22/50 | Batch: 60/63 | BatchLoss: 0.07107
+Epoch: 22/50 | Loss: 0.07060, Accuracy: 98.85%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 23/50 | Batch: 0/63 | BatchLoss: 0.02533
+Epoch: 23/50 | Batch: 10/63 | BatchLoss: 0.06115
+Epoch: 23/50 | Batch: 20/63 | BatchLoss: 0.05589
+Epoch: 23/50 | Batch: 30/63 | BatchLoss: 0.03469
+Epoch: 23/50 | Batch: 40/63 | BatchLoss: 0.04238
+Epoch: 23/50 | Batch: 50/63 | BatchLoss: 0.02955
+Epoch: 23/50 | Batch: 60/63 | BatchLoss: 0.02493
+Epoch: 23/50 | Loss: 0.04268, Accuracy: 99.22%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 24/50 | Batch: 0/63 | BatchLoss: 0.01276
+Epoch: 24/50 | Batch: 10/63 | BatchLoss: 0.04752
+Epoch: 24/50 | Batch: 20/63 | BatchLoss: 0.05761
+Epoch: 24/50 | Batch: 30/63 | BatchLoss: 0.04752
+Epoch: 24/50 | Batch: 40/63 | BatchLoss: 0.03505
+Epoch: 24/50 | Batch: 50/63 | BatchLoss: 0.03766
+Epoch: 24/50 | Batch: 60/63 | BatchLoss: 0.03964
+Epoch: 24/50 | Loss: 0.04466, Accuracy: 99.30%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 25/50 | Batch: 0/63 | BatchLoss: 0.01865
+Epoch: 25/50 | Batch: 10/63 | BatchLoss: 0.13644
+Epoch: 25/50 | Batch: 20/63 | BatchLoss: 0.14362
+Epoch: 25/50 | Batch: 30/63 | BatchLoss: 0.12939
+Epoch: 25/50 | Batch: 40/63 | BatchLoss: 0.13802
+Epoch: 25/50 | Batch: 50/63 | BatchLoss: 0.11117
+Epoch: 25/50 | Batch: 60/63 | BatchLoss: 0.12303
+Epoch: 25/50 | Loss: 0.12830, Accuracy: 96.69%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 26/50 | Batch: 0/63 | BatchLoss: 0.06072
+Epoch: 26/50 | Batch: 10/63 | BatchLoss: 0.11775
+Epoch: 26/50 | Batch: 20/63 | BatchLoss: 0.13919
+Epoch: 26/50 | Batch: 30/63 | BatchLoss: 0.12696
+Epoch: 26/50 | Batch: 40/63 | BatchLoss: 0.13565
+Epoch: 26/50 | Batch: 50/63 | BatchLoss: 0.11016
+Epoch: 26/50 | Batch: 60/63 | BatchLoss: 0.11416
+Epoch: 26/50 | Loss: 0.12215, Accuracy: 96.57%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 27/50 | Batch: 0/63 | BatchLoss: 0.05999
+Epoch: 27/50 | Batch: 10/63 | BatchLoss: 0.08836
+Epoch: 27/50 | Batch: 20/63 | BatchLoss: 0.05784
+Epoch: 27/50 | Batch: 30/63 | BatchLoss: 0.06748
+Epoch: 27/50 | Batch: 40/63 | BatchLoss: 0.05156
+Epoch: 27/50 | Batch: 50/63 | BatchLoss: 0.05721
+Epoch: 27/50 | Batch: 60/63 | BatchLoss: 0.04316
+Epoch: 27/50 | Loss: 0.06050, Accuracy: 98.72%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 28/50 | Batch: 0/63 | BatchLoss: 0.05691
+Epoch: 28/50 | Batch: 10/63 | BatchLoss: 0.02631
+Epoch: 28/50 | Batch: 20/63 | BatchLoss: 0.02348
+Epoch: 28/50 | Batch: 30/63 | BatchLoss: 0.02256
+Epoch: 28/50 | Batch: 40/63 | BatchLoss: 0.01671
+Epoch: 28/50 | Batch: 50/63 | BatchLoss: 0.01862
+Epoch: 28/50 | Batch: 60/63 | BatchLoss: 0.02174
+Epoch: 28/50 | Loss: 0.02220, Accuracy: 99.70%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/63 | BatchLoss: 0.02150
+Epoch: 29/50 | Batch: 10/63 | BatchLoss: 0.01471
+Epoch: 29/50 | Batch: 20/63 | BatchLoss: 0.01555
+Epoch: 29/50 | Batch: 30/63 | BatchLoss: 0.00795
+Epoch: 29/50 | Batch: 40/63 | BatchLoss: 0.01042
+Epoch: 29/50 | Batch: 50/63 | BatchLoss: 0.00820
+Epoch: 29/50 | Batch: 60/63 | BatchLoss: 0.00744
+Epoch: 29/50 | Loss: 0.01087, Accuracy: 99.92%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/63 | BatchLoss: 0.00309
+Epoch: 30/50 | Batch: 10/63 | BatchLoss: 0.00507
+Epoch: 30/50 | Batch: 20/63 | BatchLoss: 0.00586
+Epoch: 30/50 | Batch: 30/63 | BatchLoss: 0.00421
+Epoch: 30/50 | Batch: 40/63 | BatchLoss: 0.00559
+Epoch: 30/50 | Batch: 50/63 | BatchLoss: 0.00484
+Epoch: 30/50 | Batch: 60/63 | BatchLoss: 0.00346
+Epoch: 30/50 | Loss: 0.00481, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/63 | BatchLoss: 0.00470
+Epoch: 31/50 | Batch: 10/63 | BatchLoss: 0.00345
+Epoch: 31/50 | Batch: 20/63 | BatchLoss: 0.00329
+Epoch: 31/50 | Batch: 30/63 | BatchLoss: 0.00271
+Epoch: 31/50 | Batch: 40/63 | BatchLoss: 0.00213
+Epoch: 31/50 | Batch: 50/63 | BatchLoss: 0.00249
+Epoch: 31/50 | Batch: 60/63 | BatchLoss: 0.00280
+Epoch: 31/50 | Loss: 0.00285, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/63 | BatchLoss: 0.00237
+Epoch: 32/50 | Batch: 10/63 | BatchLoss: 0.00274
+Epoch: 32/50 | Batch: 20/63 | BatchLoss: 0.00234
+Epoch: 32/50 | Batch: 30/63 | BatchLoss: 0.00248
+Epoch: 32/50 | Batch: 40/63 | BatchLoss: 0.00218
+Epoch: 32/50 | Batch: 50/63 | BatchLoss: 0.00271
+Epoch: 32/50 | Batch: 60/63 | BatchLoss: 0.00195
+Epoch: 32/50 | Loss: 0.00242, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/63 | BatchLoss: 0.00271
+Epoch: 33/50 | Batch: 10/63 | BatchLoss: 0.00186
+Epoch: 33/50 | Batch: 20/63 | BatchLoss: 0.00218
+Epoch: 33/50 | Batch: 30/63 | BatchLoss: 0.00159
+Epoch: 33/50 | Batch: 40/63 | BatchLoss: 0.00218
+Epoch: 33/50 | Batch: 50/63 | BatchLoss: 0.00184
+Epoch: 33/50 | Batch: 60/63 | BatchLoss: 0.00232
+Epoch: 33/50 | Loss: 0.00205, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/63 | BatchLoss: 0.00172
+Epoch: 34/50 | Batch: 10/63 | BatchLoss: 0.00245
+Epoch: 34/50 | Batch: 20/63 | BatchLoss: 0.00191
+Epoch: 34/50 | Batch: 30/63 | BatchLoss: 0.00244
+Epoch: 34/50 | Batch: 40/63 | BatchLoss: 0.00202
+Epoch: 34/50 | Batch: 50/63 | BatchLoss: 0.00185
+Epoch: 34/50 | Batch: 60/63 | BatchLoss: 0.00163
+Epoch: 34/50 | Loss: 0.00204, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/63 | BatchLoss: 0.00138
+Epoch: 35/50 | Batch: 10/63 | BatchLoss: 0.00137
+Epoch: 35/50 | Batch: 20/63 | BatchLoss: 0.00166
+Epoch: 35/50 | Batch: 30/63 | BatchLoss: 0.00151
+Epoch: 35/50 | Batch: 40/63 | BatchLoss: 0.00127
+Epoch: 35/50 | Batch: 50/63 | BatchLoss: 0.00149
+Epoch: 35/50 | Batch: 60/63 | BatchLoss: 0.00229
+Epoch: 35/50 | Loss: 0.00160, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/63 | BatchLoss: 0.00176
+Epoch: 36/50 | Batch: 10/63 | BatchLoss: 0.00202
+Epoch: 36/50 | Batch: 20/63 | BatchLoss: 0.00147
+Epoch: 36/50 | Batch: 30/63 | BatchLoss: 0.00171
+Epoch: 36/50 | Batch: 40/63 | BatchLoss: 0.00142
+Epoch: 36/50 | Batch: 50/63 | BatchLoss: 0.00145
+Epoch: 36/50 | Batch: 60/63 | BatchLoss: 0.00232
+Epoch: 36/50 | Loss: 0.00174, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/63 | BatchLoss: 0.00126
+Epoch: 37/50 | Batch: 10/63 | BatchLoss: 0.00120
+Epoch: 37/50 | Batch: 20/63 | BatchLoss: 0.00123
+Epoch: 37/50 | Batch: 30/63 | BatchLoss: 0.00207
+Epoch: 37/50 | Batch: 40/63 | BatchLoss: 0.00130
+Epoch: 37/50 | Batch: 50/63 | BatchLoss: 0.00168
+Epoch: 37/50 | Batch: 60/63 | BatchLoss: 0.00144
+Epoch: 37/50 | Loss: 0.00147, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/63 | BatchLoss: 0.00236
+Epoch: 38/50 | Batch: 10/63 | BatchLoss: 0.00173
+Epoch: 38/50 | Batch: 20/63 | BatchLoss: 0.00111
+Epoch: 38/50 | Batch: 30/63 | BatchLoss: 0.00122
+Epoch: 38/50 | Batch: 40/63 | BatchLoss: 0.00141
+Epoch: 38/50 | Batch: 50/63 | BatchLoss: 0.00114
+Epoch: 38/50 | Batch: 60/63 | BatchLoss: 0.00101
+Epoch: 38/50 | Loss: 0.00130, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/63 | BatchLoss: 0.00067
+Epoch: 39/50 | Batch: 10/63 | BatchLoss: 0.00115
+Epoch: 39/50 | Batch: 20/63 | BatchLoss: 0.00115
+Epoch: 39/50 | Batch: 30/63 | BatchLoss: 0.00100
+Epoch: 39/50 | Batch: 40/63 | BatchLoss: 0.00125
+Epoch: 39/50 | Batch: 50/63 | BatchLoss: 0.00112
+Epoch: 39/50 | Batch: 60/63 | BatchLoss: 0.00101
+Epoch: 39/50 | Loss: 0.00113, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/63 | BatchLoss: 0.00076
+Epoch: 40/50 | Batch: 10/63 | BatchLoss: 0.00119
+Epoch: 40/50 | Batch: 20/63 | BatchLoss: 0.00164
+Epoch: 40/50 | Batch: 30/63 | BatchLoss: 0.00090
+Epoch: 40/50 | Batch: 40/63 | BatchLoss: 0.00082
+Epoch: 40/50 | Batch: 50/63 | BatchLoss: 0.00146
+Epoch: 40/50 | Batch: 60/63 | BatchLoss: 0.00088
+Epoch: 40/50 | Loss: 0.00117, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/63 | BatchLoss: 0.00078
+Epoch: 41/50 | Batch: 10/63 | BatchLoss: 0.00102
+Epoch: 41/50 | Batch: 20/63 | BatchLoss: 0.00146
+Epoch: 41/50 | Batch: 30/63 | BatchLoss: 0.00077
+Epoch: 41/50 | Batch: 40/63 | BatchLoss: 0.00089
+Epoch: 41/50 | Batch: 50/63 | BatchLoss: 0.00104
+Epoch: 41/50 | Batch: 60/63 | BatchLoss: 0.00109
+Epoch: 41/50 | Loss: 0.00162, Accuracy: 99.97%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/63 | BatchLoss: 0.00080
+Epoch: 42/50 | Batch: 10/63 | BatchLoss: 0.03771
+Epoch: 42/50 | Batch: 20/63 | BatchLoss: 0.06716
+Epoch: 42/50 | Batch: 30/63 | BatchLoss: 0.15126
+Epoch: 42/50 | Batch: 40/63 | BatchLoss: 0.19505
+Epoch: 42/50 | Batch: 50/63 | BatchLoss: 0.22442
+Epoch: 42/50 | Batch: 60/63 | BatchLoss: 0.35122
+Epoch: 42/50 | Loss: 0.17478, Accuracy: 94.59%, Precision: 0.95, Recall: 0.95, F1 score: 0.95
+Epoch: 43/50 | Batch: 0/63 | BatchLoss: 0.44857
+Epoch: 43/50 | Batch: 10/63 | BatchLoss: 0.40921
+Epoch: 43/50 | Batch: 20/63 | BatchLoss: 0.38313
+Epoch: 43/50 | Batch: 30/63 | BatchLoss: 0.43006
+Epoch: 43/50 | Batch: 40/63 | BatchLoss: 0.40744
+Epoch: 43/50 | Batch: 50/63 | BatchLoss: 0.28641
+Epoch: 43/50 | Batch: 60/63 | BatchLoss: 0.27368
+Epoch: 43/50 | Loss: 0.36603, Accuracy: 88.40%, Precision: 0.88, Recall: 0.88, F1 score: 0.88
+Epoch: 44/50 | Batch: 0/63 | BatchLoss: 0.33257
+Epoch: 44/50 | Batch: 10/63 | BatchLoss: 0.23261
+Epoch: 44/50 | Batch: 20/63 | BatchLoss: 0.15767
+Epoch: 44/50 | Batch: 30/63 | BatchLoss: 0.17517
+Epoch: 44/50 | Batch: 40/63 | BatchLoss: 0.12526
+Epoch: 44/50 | Batch: 50/63 | BatchLoss: 0.09391
+Epoch: 44/50 | Batch: 60/63 | BatchLoss: 0.12031
+Epoch: 44/50 | Loss: 0.15331, Accuracy: 95.84%, Precision: 0.96, Recall: 0.96, F1 score: 0.96
+Epoch: 45/50 | Batch: 0/63 | BatchLoss: 0.05570
+Epoch: 45/50 | Batch: 10/63 | BatchLoss: 0.05826
+Epoch: 45/50 | Batch: 20/63 | BatchLoss: 0.07692
+Epoch: 45/50 | Batch: 30/63 | BatchLoss: 0.05486
+Epoch: 45/50 | Batch: 40/63 | BatchLoss: 0.04140
+Epoch: 45/50 | Batch: 50/63 | BatchLoss: 0.03480
+Epoch: 45/50 | Batch: 60/63 | BatchLoss: 0.04618
+Epoch: 45/50 | Loss: 0.05313, Accuracy: 98.92%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 46/50 | Batch: 0/63 | BatchLoss: 0.00620
+Epoch: 46/50 | Batch: 10/63 | BatchLoss: 0.05861
+Epoch: 46/50 | Batch: 20/63 | BatchLoss: 0.05792
+Epoch: 46/50 | Batch: 30/63 | BatchLoss: 0.03696
+Epoch: 46/50 | Batch: 40/63 | BatchLoss: 0.03210
+Epoch: 46/50 | Batch: 50/63 | BatchLoss: 0.04251
+Epoch: 46/50 | Batch: 60/63 | BatchLoss: 0.04298
+Epoch: 46/50 | Loss: 0.04415, Accuracy: 98.92%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 47/50 | Batch: 0/63 | BatchLoss: 0.01516
+Epoch: 47/50 | Batch: 10/63 | BatchLoss: 0.01955
+Epoch: 47/50 | Batch: 20/63 | BatchLoss: 0.02766
+Epoch: 47/50 | Batch: 30/63 | BatchLoss: 0.01640
+Epoch: 47/50 | Batch: 40/63 | BatchLoss: 0.01801
+Epoch: 47/50 | Batch: 50/63 | BatchLoss: 0.01635
+Epoch: 47/50 | Batch: 60/63 | BatchLoss: 0.01119
+Epoch: 47/50 | Loss: 0.01800, Accuracy: 99.67%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 48/50 | Batch: 0/63 | BatchLoss: 0.00732
+Epoch: 48/50 | Batch: 10/63 | BatchLoss: 0.01068
+Epoch: 48/50 | Batch: 20/63 | BatchLoss: 0.00608
+Epoch: 48/50 | Batch: 30/63 | BatchLoss: 0.00859
+Epoch: 48/50 | Batch: 40/63 | BatchLoss: 0.00616
+Epoch: 48/50 | Batch: 50/63 | BatchLoss: 0.00456
+Epoch: 48/50 | Batch: 60/63 | BatchLoss: 0.00356
+Epoch: 48/50 | Loss: 0.00669, Accuracy: 99.97%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 49/50 | Batch: 0/63 | BatchLoss: 0.00179
+Epoch: 49/50 | Batch: 10/63 | BatchLoss: 0.00300
+Epoch: 49/50 | Batch: 20/63 | BatchLoss: 0.00537
+Epoch: 49/50 | Batch: 30/63 | BatchLoss: 0.00243
+Epoch: 49/50 | Batch: 40/63 | BatchLoss: 0.00451
+Epoch: 49/50 | Batch: 50/63 | BatchLoss: 0.00233
+Epoch: 49/50 | Batch: 60/63 | BatchLoss: 0.00191
+Epoch: 49/50 | Loss: 0.00358, Accuracy: 99.97%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/63 | BatchLoss: 0.00224
+Epoch: 50/50 | Batch: 10/63 | BatchLoss: 0.00327
+Epoch: 50/50 | Batch: 20/63 | BatchLoss: 0.00495
+Epoch: 50/50 | Batch: 30/63 | BatchLoss: 0.01414
+Epoch: 50/50 | Batch: 40/63 | BatchLoss: 0.00591
+Epoch: 50/50 | Batch: 50/63 | BatchLoss: 0.00618
+Epoch: 50/50 | Batch: 60/63 | BatchLoss: 0.00501
+Epoch: 50/50 | Loss: 0.00658, Accuracy: 99.92%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 1.38100, Test acc: 72.95%Test Precison: 0.76, Test Recall: 0.7294589178356713, Test F1: 0.7283459280878
+50
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/38 | BatchLoss: 4.61469
+Epoch: 1/50 | Batch: 10/38 | BatchLoss: 4.60359
+Epoch: 1/50 | Batch: 20/38 | BatchLoss: 4.59483
+Epoch: 1/50 | Batch: 30/38 | BatchLoss: 4.54737
+Epoch: 1/50 | Loss: 4.57017, Accuracy: 1.46%, Precision: 0.01, Recall: 0.01, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 2/50 | Batch: 0/38 | BatchLoss: 4.45531
+Epoch: 2/50 | Batch: 10/38 | BatchLoss: 4.39741
+Epoch: 2/50 | Batch: 20/38 | BatchLoss: 4.42877
+Epoch: 2/50 | Batch: 30/38 | BatchLoss: 4.40847
+Epoch: 2/50 | Loss: 4.40820, Accuracy: 2.12%, Precision: 0.01, Recall: 0.02, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 3/50 | Batch: 0/38 | BatchLoss: 4.19473
+Epoch: 3/50 | Batch: 10/38 | BatchLoss: 4.27555
+Epoch: 3/50 | Batch: 20/38 | BatchLoss: 4.31609
+Epoch: 3/50 | Batch: 30/38 | BatchLoss: 4.28507
+Epoch: 3/50 | Loss: 4.29941, Accuracy: 3.21%, Precision: 0.02, Recall: 0.03, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 4/50 | Batch: 0/38 | BatchLoss: 4.21275
+Epoch: 4/50 | Batch: 10/38 | BatchLoss: 4.17980
+Epoch: 4/50 | Batch: 20/38 | BatchLoss: 4.25031
+Epoch: 4/50 | Batch: 30/38 | BatchLoss: 4.22277
+Epoch: 4/50 | Loss: 4.20968, Accuracy: 4.04%, Precision: 0.03, Recall: 0.04, F1 score: 0.02
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 5/50 | Batch: 0/38 | BatchLoss: 4.04628
+Epoch: 5/50 | Batch: 10/38 | BatchLoss: 4.01140
+Epoch: 5/50 | Batch: 20/38 | BatchLoss: 3.99413
+Epoch: 5/50 | Batch: 30/38 | BatchLoss: 4.01364
+Epoch: 5/50 | Loss: 4.01164, Accuracy: 5.88%, Precision: 0.04, Recall: 0.06, F1 score: 0.03
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 6/50 | Batch: 0/38 | BatchLoss: 3.80318
+Epoch: 6/50 | Batch: 10/38 | BatchLoss: 3.79026
+Epoch: 6/50 | Batch: 20/38 | BatchLoss: 3.76077
+Epoch: 6/50 | Batch: 30/38 | BatchLoss: 3.71413
+Epoch: 6/50 | Loss: 3.74570, Accuracy: 8.88%, Precision: 0.06, Recall: 0.09, F1 score: 0.06
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 7/50 | Batch: 0/38 | BatchLoss: 3.50457
+Epoch: 7/50 | Batch: 10/38 | BatchLoss: 3.52080
+Epoch: 7/50 | Batch: 20/38 | BatchLoss: 3.48995
+Epoch: 7/50 | Batch: 30/38 | BatchLoss: 3.45652
+Epoch: 7/50 | Loss: 3.48348, Accuracy: 11.08%, Precision: 0.09, Recall: 0.11, F1 score: 0.08
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 8/50 | Batch: 0/38 | BatchLoss: 3.08334
+Epoch: 8/50 | Batch: 10/38 | BatchLoss: 3.21042
+Epoch: 8/50 | Batch: 20/38 | BatchLoss: 3.23431
+Epoch: 8/50 | Batch: 30/38 | BatchLoss: 3.19425
+Epoch: 8/50 | Loss: 3.22691, Accuracy: 15.42%, Precision: 0.14, Recall: 0.15, F1 score: 0.13
+Epoch: 9/50 | Batch: 0/38 | BatchLoss: 3.08387
+Epoch: 9/50 | Batch: 10/38 | BatchLoss: 2.98953
+Epoch: 9/50 | Batch: 20/38 | BatchLoss: 2.92412
+Epoch: 9/50 | Batch: 30/38 | BatchLoss: 2.87912
+Epoch: 9/50 | Loss: 2.93871, Accuracy: 20.17%, Precision: 0.19, Recall: 0.20, F1 score: 0.17
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 10/50 | Batch: 0/38 | BatchLoss: 2.46556
+Epoch: 10/50 | Batch: 10/38 | BatchLoss: 2.63426
+Epoch: 10/50 | Batch: 20/38 | BatchLoss: 2.64240
+Epoch: 10/50 | Batch: 30/38 | BatchLoss: 2.65661
+Epoch: 10/50 | Loss: 2.66919, Accuracy: 26.12%, Precision: 0.25, Recall: 0.26, F1 score: 0.24
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 11/50 | Batch: 0/38 | BatchLoss: 2.54092
+Epoch: 11/50 | Batch: 10/38 | BatchLoss: 2.47756
+Epoch: 11/50 | Batch: 20/38 | BatchLoss: 2.45584
+Epoch: 11/50 | Batch: 30/38 | BatchLoss: 2.41712
+Epoch: 11/50 | Loss: 2.42377, Accuracy: 32.29%, Precision: 0.33, Recall: 0.32, F1 score: 0.30
+Epoch: 12/50 | Batch: 0/38 | BatchLoss: 2.22623
+Epoch: 12/50 | Batch: 10/38 | BatchLoss: 2.07008
+Epoch: 12/50 | Batch: 20/38 | BatchLoss: 2.05818
+Epoch: 12/50 | Batch: 30/38 | BatchLoss: 2.04971
+Epoch: 12/50 | Loss: 2.04367, Accuracy: 40.92%, Precision: 0.40, Recall: 0.40, F1 score: 0.39
+Epoch: 13/50 | Batch: 0/38 | BatchLoss: 1.62809
+Epoch: 13/50 | Batch: 10/38 | BatchLoss: 1.62826
+Epoch: 13/50 | Batch: 20/38 | BatchLoss: 1.66802
+Epoch: 13/50 | Batch: 30/38 | BatchLoss: 1.71460
+Epoch: 13/50 | Loss: 1.68057, Accuracy: 50.71%, Precision: 0.51, Recall: 0.50, F1 score: 0.49
+Epoch: 14/50 | Batch: 0/38 | BatchLoss: 1.19832
+Epoch: 14/50 | Batch: 10/38 | BatchLoss: 1.38100
+Epoch: 14/50 | Batch: 20/38 | BatchLoss: 1.36506
+Epoch: 14/50 | Batch: 30/38 | BatchLoss: 1.34833
+Epoch: 14/50 | Loss: 1.38868, Accuracy: 60.75%, Precision: 0.61, Recall: 0.60, F1 score: 0.60
+Epoch: 15/50 | Batch: 0/38 | BatchLoss: 0.96728
+Epoch: 15/50 | Batch: 10/38 | BatchLoss: 1.21652
+Epoch: 15/50 | Batch: 20/38 | BatchLoss: 1.12636
+Epoch: 15/50 | Batch: 30/38 | BatchLoss: 1.10204
+Epoch: 15/50 | Loss: 1.12801, Accuracy: 67.50%, Precision: 0.68, Recall: 0.67, F1 score: 0.67
+Epoch: 16/50 | Batch: 0/38 | BatchLoss: 0.77446
+Epoch: 16/50 | Batch: 10/38 | BatchLoss: 0.85031
+Epoch: 16/50 | Batch: 20/38 | BatchLoss: 0.77881
+Epoch: 16/50 | Batch: 30/38 | BatchLoss: 0.79464
+Epoch: 16/50 | Loss: 0.82620, Accuracy: 77.71%, Precision: 0.78, Recall: 0.77, F1 score: 0.77
+Epoch: 17/50 | Batch: 0/38 | BatchLoss: 0.48573
+Epoch: 17/50 | Batch: 10/38 | BatchLoss: 0.72237
+Epoch: 17/50 | Batch: 20/38 | BatchLoss: 0.62265
+Epoch: 17/50 | Batch: 30/38 | BatchLoss: 0.59607
+Epoch: 17/50 | Loss: 0.66101, Accuracy: 82.12%, Precision: 0.82, Recall: 0.82, F1 score: 0.82
+Epoch: 18/50 | Batch: 0/38 | BatchLoss: 0.45899
+Epoch: 18/50 | Batch: 10/38 | BatchLoss: 0.50273
+Epoch: 18/50 | Batch: 20/38 | BatchLoss: 0.49813
+Epoch: 18/50 | Batch: 30/38 | BatchLoss: 0.43471
+Epoch: 18/50 | Loss: 0.48995, Accuracy: 86.42%, Precision: 0.87, Recall: 0.86, F1 score: 0.86
+Epoch: 19/50 | Batch: 0/38 | BatchLoss: 0.45362
+Epoch: 19/50 | Batch: 10/38 | BatchLoss: 0.34163
+Epoch: 19/50 | Batch: 20/38 | BatchLoss: 0.35245
+Epoch: 19/50 | Batch: 30/38 | BatchLoss: 0.27179
+Epoch: 19/50 | Loss: 0.33036, Accuracy: 91.96%, Precision: 0.92, Recall: 0.92, F1 score: 0.92
+Epoch: 20/50 | Batch: 0/38 | BatchLoss: 0.20218
+Epoch: 20/50 | Batch: 10/38 | BatchLoss: 0.24163
+Epoch: 20/50 | Batch: 20/38 | BatchLoss: 0.24003
+Epoch: 20/50 | Batch: 30/38 | BatchLoss: 0.22800
+Epoch: 20/50 | Loss: 0.23564, Accuracy: 94.79%, Precision: 0.95, Recall: 0.95, F1 score: 0.95
+Epoch: 21/50 | Batch: 0/38 | BatchLoss: 0.22654
+Epoch: 21/50 | Batch: 10/38 | BatchLoss: 0.17793
+Epoch: 21/50 | Batch: 20/38 | BatchLoss: 0.19537
+Epoch: 21/50 | Batch: 30/38 | BatchLoss: 0.23354
+Epoch: 21/50 | Loss: 0.21886, Accuracy: 94.50%, Precision: 0.95, Recall: 0.94, F1 score: 0.94
+Epoch: 22/50 | Batch: 0/38 | BatchLoss: 0.29887
+Epoch: 22/50 | Batch: 10/38 | BatchLoss: 0.21771
+Epoch: 22/50 | Batch: 20/38 | BatchLoss: 0.18679
+Epoch: 22/50 | Batch: 30/38 | BatchLoss: 0.19588
+Epoch: 22/50 | Loss: 0.19662, Accuracy: 95.12%, Precision: 0.95, Recall: 0.95, F1 score: 0.95
+Epoch: 23/50 | Batch: 0/38 | BatchLoss: 0.09896
+Epoch: 23/50 | Batch: 10/38 | BatchLoss: 0.13164
+Epoch: 23/50 | Batch: 20/38 | BatchLoss: 0.11544
+Epoch: 23/50 | Batch: 30/38 | BatchLoss: 0.14434
+Epoch: 23/50 | Loss: 0.12812, Accuracy: 97.42%, Precision: 0.97, Recall: 0.97, F1 score: 0.97
+Epoch: 24/50 | Batch: 0/38 | BatchLoss: 0.08915
+Epoch: 24/50 | Batch: 10/38 | BatchLoss: 0.08783
+Epoch: 24/50 | Batch: 20/38 | BatchLoss: 0.07928
+Epoch: 24/50 | Batch: 30/38 | BatchLoss: 0.07591
+Epoch: 24/50 | Loss: 0.08120, Accuracy: 98.58%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 25/50 | Batch: 0/38 | BatchLoss: 0.07045
+Epoch: 25/50 | Batch: 10/38 | BatchLoss: 0.08483
+Epoch: 25/50 | Batch: 20/38 | BatchLoss: 0.09042
+Epoch: 25/50 | Batch: 30/38 | BatchLoss: 0.07166
+Epoch: 25/50 | Loss: 0.08293, Accuracy: 98.00%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 26/50 | Batch: 0/38 | BatchLoss: 0.02437
+Epoch: 26/50 | Batch: 10/38 | BatchLoss: 0.04816
+Epoch: 26/50 | Batch: 20/38 | BatchLoss: 0.05073
+Epoch: 26/50 | Batch: 30/38 | BatchLoss: 0.04683
+Epoch: 26/50 | Loss: 0.04754, Accuracy: 99.21%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 27/50 | Batch: 0/38 | BatchLoss: 0.01741
+Epoch: 27/50 | Batch: 10/38 | BatchLoss: 0.03754
+Epoch: 27/50 | Batch: 20/38 | BatchLoss: 0.03078
+Epoch: 27/50 | Batch: 30/38 | BatchLoss: 0.02927
+Epoch: 27/50 | Loss: 0.03146, Accuracy: 99.50%, Precision: 1.00, Recall: 0.99, F1 score: 0.99
+Epoch: 28/50 | Batch: 0/38 | BatchLoss: 0.01785
+Epoch: 28/50 | Batch: 10/38 | BatchLoss: 0.01799
+Epoch: 28/50 | Batch: 20/38 | BatchLoss: 0.01299
+Epoch: 28/50 | Batch: 30/38 | BatchLoss: 0.01412
+Epoch: 28/50 | Loss: 0.01445, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 29/50 | Batch: 0/38 | BatchLoss: 0.00835
+Epoch: 29/50 | Batch: 10/38 | BatchLoss: 0.00918
+Epoch: 29/50 | Batch: 20/38 | BatchLoss: 0.00895
+Epoch: 29/50 | Batch: 30/38 | BatchLoss: 0.00915
+Epoch: 29/50 | Loss: 0.00922, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 30/50 | Batch: 0/38 | BatchLoss: 0.00449
+Epoch: 30/50 | Batch: 10/38 | BatchLoss: 0.00674
+Epoch: 30/50 | Batch: 20/38 | BatchLoss: 0.00572
+Epoch: 30/50 | Batch: 30/38 | BatchLoss: 0.00629
+Epoch: 30/50 | Loss: 0.00609, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 31/50 | Batch: 0/38 | BatchLoss: 0.00316
+Epoch: 31/50 | Batch: 10/38 | BatchLoss: 0.00427
+Epoch: 31/50 | Batch: 20/38 | BatchLoss: 0.00480
+Epoch: 31/50 | Batch: 30/38 | BatchLoss: 0.00512
+Epoch: 31/50 | Loss: 0.00477, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 32/50 | Batch: 0/38 | BatchLoss: 0.00237
+Epoch: 32/50 | Batch: 10/38 | BatchLoss: 0.00353
+Epoch: 32/50 | Batch: 20/38 | BatchLoss: 0.00315
+Epoch: 32/50 | Batch: 30/38 | BatchLoss: 0.00396
+Epoch: 32/50 | Loss: 0.00359, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 33/50 | Batch: 0/38 | BatchLoss: 0.00203
+Epoch: 33/50 | Batch: 10/38 | BatchLoss: 0.00448
+Epoch: 33/50 | Batch: 20/38 | BatchLoss: 0.00395
+Epoch: 33/50 | Batch: 30/38 | BatchLoss: 0.00323
+Epoch: 33/50 | Loss: 0.00396, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 34/50 | Batch: 0/38 | BatchLoss: 0.00524
+Epoch: 34/50 | Batch: 10/38 | BatchLoss: 0.00236
+Epoch: 34/50 | Batch: 20/38 | BatchLoss: 0.00394
+Epoch: 34/50 | Batch: 30/38 | BatchLoss: 0.00290
+Epoch: 34/50 | Loss: 0.00301, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 35/50 | Batch: 0/38 | BatchLoss: 0.00297
+Epoch: 35/50 | Batch: 10/38 | BatchLoss: 0.00291
+Epoch: 35/50 | Batch: 20/38 | BatchLoss: 0.00288
+Epoch: 35/50 | Batch: 30/38 | BatchLoss: 0.00336
+Epoch: 35/50 | Loss: 0.00309, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 36/50 | Batch: 0/38 | BatchLoss: 0.00236
+Epoch: 36/50 | Batch: 10/38 | BatchLoss: 0.00241
+Epoch: 36/50 | Batch: 20/38 | BatchLoss: 0.00283
+Epoch: 36/50 | Batch: 30/38 | BatchLoss: 0.00257
+Epoch: 36/50 | Loss: 0.00270, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 37/50 | Batch: 0/38 | BatchLoss: 0.00302
+Epoch: 37/50 | Batch: 10/38 | BatchLoss: 0.00330
+Epoch: 37/50 | Batch: 20/38 | BatchLoss: 0.00238
+Epoch: 37/50 | Batch: 30/38 | BatchLoss: 0.00265
+Epoch: 37/50 | Loss: 0.00279, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 38/50 | Batch: 0/38 | BatchLoss: 0.00201
+Epoch: 38/50 | Batch: 10/38 | BatchLoss: 0.00220
+Epoch: 38/50 | Batch: 20/38 | BatchLoss: 0.00262
+Epoch: 38/50 | Batch: 30/38 | BatchLoss: 0.00302
+Epoch: 38/50 | Loss: 0.00257, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 39/50 | Batch: 0/38 | BatchLoss: 0.00110
+Epoch: 39/50 | Batch: 10/38 | BatchLoss: 0.00172
+Epoch: 39/50 | Batch: 20/38 | BatchLoss: 0.00316
+Epoch: 39/50 | Batch: 30/38 | BatchLoss: 0.00306
+Epoch: 39/50 | Loss: 0.00278, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 40/50 | Batch: 0/38 | BatchLoss: 0.00221
+Epoch: 40/50 | Batch: 10/38 | BatchLoss: 0.00202
+Epoch: 40/50 | Batch: 20/38 | BatchLoss: 0.00359
+Epoch: 40/50 | Batch: 30/38 | BatchLoss: 0.00411
+Epoch: 40/50 | Loss: 0.00317, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 41/50 | Batch: 0/38 | BatchLoss: 0.00226
+Epoch: 41/50 | Batch: 10/38 | BatchLoss: 0.00343
+Epoch: 41/50 | Batch: 20/38 | BatchLoss: 0.00320
+Epoch: 41/50 | Batch: 30/38 | BatchLoss: 0.00222
+Epoch: 41/50 | Loss: 0.00291, Accuracy: 100.00%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 42/50 | Batch: 0/38 | BatchLoss: 0.00155
+Epoch: 42/50 | Batch: 10/38 | BatchLoss: 0.00214
+Epoch: 42/50 | Batch: 20/38 | BatchLoss: 0.00207
+Epoch: 42/50 | Batch: 30/38 | BatchLoss: 0.00175
+Epoch: 42/50 | Loss: 0.00255, Accuracy: 99.96%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 43/50 | Batch: 0/38 | BatchLoss: 0.00174
+Epoch: 43/50 | Batch: 10/38 | BatchLoss: 0.00995
+Epoch: 43/50 | Batch: 20/38 | BatchLoss: 0.04571
+Epoch: 43/50 | Batch: 30/38 | BatchLoss: 0.08136
+Epoch: 43/50 | Loss: 0.05926, Accuracy: 98.58%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 44/50 | Batch: 0/38 | BatchLoss: 0.09889
+Epoch: 44/50 | Batch: 10/38 | BatchLoss: 0.36889
+Epoch: 44/50 | Batch: 20/38 | BatchLoss: 0.56904
+Epoch: 44/50 | Batch: 30/38 | BatchLoss: 0.88273
+Epoch: 44/50 | Loss: 0.66478, Accuracy: 79.12%, Precision: 0.80, Recall: 0.79, F1 score: 0.79
+Epoch: 45/50 | Batch: 0/38 | BatchLoss: 0.59028
+Epoch: 45/50 | Batch: 10/38 | BatchLoss: 0.67503
+Epoch: 45/50 | Batch: 20/38 | BatchLoss: 0.53145
+Epoch: 45/50 | Batch: 30/38 | BatchLoss: 0.39112
+Epoch: 45/50 | Loss: 0.50418, Accuracy: 84.29%, Precision: 0.84, Recall: 0.84, F1 score: 0.84
+Epoch: 46/50 | Batch: 0/38 | BatchLoss: 0.10667
+Epoch: 46/50 | Batch: 10/38 | BatchLoss: 0.19898
+Epoch: 46/50 | Batch: 20/38 | BatchLoss: 0.18061
+Epoch: 46/50 | Batch: 30/38 | BatchLoss: 0.15841
+Epoch: 46/50 | Loss: 0.16533, Accuracy: 95.50%, Precision: 0.96, Recall: 0.95, F1 score: 0.95
+Epoch: 47/50 | Batch: 0/38 | BatchLoss: 0.10650
+Epoch: 47/50 | Batch: 10/38 | BatchLoss: 0.07143
+Epoch: 47/50 | Batch: 20/38 | BatchLoss: 0.07354
+Epoch: 47/50 | Batch: 30/38 | BatchLoss: 0.04831
+Epoch: 47/50 | Loss: 0.06457, Accuracy: 98.79%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 48/50 | Batch: 0/38 | BatchLoss: 0.05519
+Epoch: 48/50 | Batch: 10/38 | BatchLoss: 0.04163
+Epoch: 48/50 | Batch: 20/38 | BatchLoss: 0.04234
+Epoch: 48/50 | Batch: 30/38 | BatchLoss: 0.04128
+Epoch: 48/50 | Loss: 0.03972, Accuracy: 99.21%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 49/50 | Batch: 0/38 | BatchLoss: 0.02842
+Epoch: 49/50 | Batch: 10/38 | BatchLoss: 0.03107
+Epoch: 49/50 | Batch: 20/38 | BatchLoss: 0.02185
+Epoch: 49/50 | Batch: 30/38 | BatchLoss: 0.02298
+Epoch: 49/50 | Loss: 0.02453, Accuracy: 99.71%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Epoch: 50/50 | Batch: 0/38 | BatchLoss: 0.00734
+Epoch: 50/50 | Batch: 10/38 | BatchLoss: 0.01092
+Epoch: 50/50 | Batch: 20/38 | BatchLoss: 0.00708
+Epoch: 50/50 | Batch: 30/38 | BatchLoss: 0.01102
+Epoch: 50/50 | Loss: 0.00986, Accuracy: 99.96%, Precision: 1.00, Recall: 1.00, F1 score: 1.00
+Test loss: 1.22140, Test acc: 72.17%Test Precison: 0.75, Test Recall: 0.7216666666666667, Test F1: 0.7168831808026854
+30
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 1/50 | Batch: 0/13 | BatchLoss: 4.60080
+Epoch: 1/50 | Batch: 10/13 | BatchLoss: 4.49799
+Epoch: 1/50 | Loss: 4.48630, Accuracy: 1.88%, Precision: 0.00, Recall: 0.02, F1 score: 0.00
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 2/50 | Batch: 0/13 | BatchLoss: 4.15416
+Epoch: 2/50 | Batch: 10/13 | BatchLoss: 4.04264
+Epoch: 2/50 | Loss: 4.03007, Accuracy: 3.00%, Precision: 0.01, Recall: 0.03, F1 score: 0.01
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 3/50 | Batch: 0/13 | BatchLoss: 3.66748
+Epoch: 3/50 | Batch: 10/13 | BatchLoss: 3.70986
+Epoch: 3/50 | Loss: 3.71146, Accuracy: 5.00%, Precision: 0.01, Recall: 0.04, F1 score: 0.02
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 4/50 | Batch: 0/13 | BatchLoss: 3.42480
+Epoch: 4/50 | Batch: 10/13 | BatchLoss: 3.48351
+Epoch: 4/50 | Loss: 3.47084, Accuracy: 7.75%, Precision: 0.04, Recall: 0.07, F1 score: 0.04
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 5/50 | Batch: 0/13 | BatchLoss: 3.33332
+Epoch: 5/50 | Batch: 10/13 | BatchLoss: 3.44052
+Epoch: 5/50 | Loss: 3.41132, Accuracy: 7.25%, Precision: 0.03, Recall: 0.07, F1 score: 0.04
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 6/50 | Batch: 0/13 | BatchLoss: 3.18779
+Epoch: 6/50 | Batch: 10/13 | BatchLoss: 3.21636
+Epoch: 6/50 | Loss: 3.21876, Accuracy: 10.12%, Precision: 0.06, Recall: 0.10, F1 score: 0.06
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 7/50 | Batch: 0/13 | BatchLoss: 2.82275
+Epoch: 7/50 | Batch: 10/13 | BatchLoss: 3.20536
+Epoch: 7/50 | Loss: 3.19848, Accuracy: 10.25%, Precision: 0.08, Recall: 0.10, F1 score: 0.07
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 8/50 | Batch: 0/13 | BatchLoss: 3.23276
+Epoch: 8/50 | Batch: 10/13 | BatchLoss: 3.08823
+Epoch: 8/50 | Loss: 3.11038, Accuracy: 10.62%, Precision: 0.07, Recall: 0.10, F1 score: 0.07
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 9/50 | Batch: 0/13 | BatchLoss: 2.75908
+Epoch: 9/50 | Batch: 10/13 | BatchLoss: 2.88093
+Epoch: 9/50 | Loss: 2.89450, Accuracy: 14.00%, Precision: 0.08, Recall: 0.13, F1 score: 0.09
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 10/50 | Batch: 0/13 | BatchLoss: 2.61343
+Epoch: 10/50 | Batch: 10/13 | BatchLoss: 2.79487
+Epoch: 10/50 | Loss: 2.78209, Accuracy: 18.00%, Precision: 0.14, Recall: 0.17, F1 score: 0.13
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 11/50 | Batch: 0/13 | BatchLoss: 2.69339
+Epoch: 11/50 | Batch: 10/13 | BatchLoss: 2.56586
+Epoch: 11/50 | Loss: 2.57363, Accuracy: 21.75%, Precision: 0.17, Recall: 0.21, F1 score: 0.17
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 12/50 | Batch: 0/13 | BatchLoss: 2.18522
+Epoch: 12/50 | Batch: 10/13 | BatchLoss: 2.44231
+Epoch: 12/50 | Loss: 2.41305, Accuracy: 24.38%, Precision: 0.20, Recall: 0.24, F1 score: 0.19
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 13/50 | Batch: 0/13 | BatchLoss: 2.14570
+Epoch: 13/50 | Batch: 10/13 | BatchLoss: 2.22726
+Epoch: 13/50 | Loss: 2.27224, Accuracy: 28.75%, Precision: 0.29, Recall: 0.28, F1 score: 0.25
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 14/50 | Batch: 0/13 | BatchLoss: 2.29770
+Epoch: 14/50 | Batch: 10/13 | BatchLoss: 2.20349
+Epoch: 14/50 | Loss: 2.22185, Accuracy: 31.88%, Precision: 0.30, Recall: 0.31, F1 score: 0.28
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 15/50 | Batch: 0/13 | BatchLoss: 1.94704
+Epoch: 15/50 | Batch: 10/13 | BatchLoss: 1.93787
+Epoch: 15/50 | Loss: 1.97644, Accuracy: 37.62%, Precision: 0.39, Recall: 0.36, F1 score: 0.34
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 16/50 | Batch: 0/13 | BatchLoss: 1.73276
+Epoch: 16/50 | Batch: 10/13 | BatchLoss: 1.88696
+Epoch: 16/50 | Loss: 1.86794, Accuracy: 42.00%, Precision: 0.40, Recall: 0.41, F1 score: 0.38
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 17/50 | Batch: 0/13 | BatchLoss: 1.74264
+Epoch: 17/50 | Batch: 10/13 | BatchLoss: 1.66654
+Epoch: 17/50 | Loss: 1.66237, Accuracy: 45.75%, Precision: 0.47, Recall: 0.45, F1 score: 0.43
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 18/50 | Batch: 0/13 | BatchLoss: 1.48454
+Epoch: 18/50 | Batch: 10/13 | BatchLoss: 1.49348
+Epoch: 18/50 | Loss: 1.50951, Accuracy: 50.12%, Precision: 0.53, Recall: 0.49, F1 score: 0.47
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 19/50 | Batch: 0/13 | BatchLoss: 1.14734
+Epoch: 19/50 | Batch: 10/13 | BatchLoss: 1.33343
+Epoch: 19/50 | Loss: 1.31172, Accuracy: 57.75%, Precision: 0.60, Recall: 0.57, F1 score: 0.55
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 20/50 | Batch: 0/13 | BatchLoss: 1.25572
+Epoch: 20/50 | Batch: 10/13 | BatchLoss: 1.14406
+Epoch: 20/50 | Loss: 1.14751, Accuracy: 64.38%, Precision: 0.67, Recall: 0.64, F1 score: 0.62
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 21/50 | Batch: 0/13 | BatchLoss: 0.87269
+Epoch: 21/50 | Batch: 10/13 | BatchLoss: 0.91612
+Epoch: 21/50 | Loss: 0.92300, Accuracy: 73.50%, Precision: 0.75, Recall: 0.73, F1 score: 0.72
+Epoch: 22/50 | Batch: 0/13 | BatchLoss: 0.57512
+Epoch: 22/50 | Batch: 10/13 | BatchLoss: 0.78369
+Epoch: 22/50 | Loss: 0.79376, Accuracy: 77.12%, Precision: 0.79, Recall: 0.77, F1 score: 0.76
+Epoch: 23/50 | Batch: 0/13 | BatchLoss: 0.77312
+Epoch: 23/50 | Batch: 10/13 | BatchLoss: 0.72549
+Epoch: 23/50 | Loss: 0.75371, Accuracy: 76.75%, Precision: 0.79, Recall: 0.76, F1 score: 0.75
+/mnt/sdb/users/kja8586/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Epoch: 24/50 | Batch: 0/13 | BatchLoss: 0.41003
+Epoch: 24/50 | Batch: 10/13 | BatchLoss: 0.74140
+Epoch: 24/50 | Loss: 0.71235, Accuracy: 76.38%, Precision: 0.78, Recall: 0.76, F1 score: 0.75
+Epoch: 25/50 | Batch: 0/13 | BatchLoss: 0.65454
+Epoch: 25/50 | Batch: 10/13 | BatchLoss: 0.53830
+Epoch: 25/50 | Loss: 0.54635, Accuracy: 85.62%, Precision: 0.87, Recall: 0.85, F1 score: 0.85
+Epoch: 26/50 | Batch: 0/13 | BatchLoss: 0.48733
+Epoch: 26/50 | Batch: 10/13 | BatchLoss: 0.40921
+Epoch: 26/50 | Loss: 0.42165, Accuracy: 90.12%, Precision: 0.91, Recall: 0.90, F1 score: 0.90
+Epoch: 27/50 | Batch: 0/13 | BatchLoss: 0.29722
+Epoch: 27/50 | Batch: 10/13 | BatchLoss: 0.42123
+Epoch: 27/50 | Loss: 0.40527, Accuracy: 87.88%, Precision: 0.89, Recall: 0.87, F1 score: 0.87
+Epoch: 28/50 | Batch: 0/13 | BatchLoss: 0.23585
+Epoch: 28/50 | Batch: 10/13 | BatchLoss: 0.35301
+Epoch: 28/50 | Loss: 0.37314, Accuracy: 90.88%, Precision: 0.91, Recall: 0.91, F1 score: 0.91
+Epoch: 29/50 | Batch: 0/13 | BatchLoss: 0.28014
+Epoch: 29/50 | Batch: 10/13 | BatchLoss: 0.35400
+Epoch: 29/50 | Loss: 0.35765, Accuracy: 90.00%, Precision: 0.90, Recall: 0.90, F1 score: 0.89
+Epoch: 30/50 | Batch: 0/13 | BatchLoss: 0.20451
+Epoch: 30/50 | Batch: 10/13 | BatchLoss: 0.32807
+Epoch: 30/50 | Loss: 0.33878, Accuracy: 90.62%, Precision: 0.91, Recall: 0.90, F1 score: 0.90
+Epoch: 31/50 | Batch: 0/13 | BatchLoss: 0.17289
+Epoch: 31/50 | Batch: 10/13 | BatchLoss: 0.44285
+Epoch: 31/50 | Loss: 0.42118, Accuracy: 86.75%, Precision: 0.88, Recall: 0.86, F1 score: 0.86
+Epoch: 32/50 | Batch: 0/13 | BatchLoss: 0.22152
+Epoch: 32/50 | Batch: 10/13 | BatchLoss: 0.27461
+Epoch: 32/50 | Loss: 0.28501, Accuracy: 91.38%, Precision: 0.92, Recall: 0.91, F1 score: 0.91
+Epoch: 33/50 | Batch: 0/13 | BatchLoss: 0.15312
+Epoch: 33/50 | Batch: 10/13 | BatchLoss: 0.22314
+Epoch: 33/50 | Loss: 0.21772, Accuracy: 95.50%, Precision: 0.96, Recall: 0.95, F1 score: 0.95
+Epoch: 34/50 | Batch: 0/13 | BatchLoss: 0.14855
+Epoch: 34/50 | Batch: 10/13 | BatchLoss: 0.17423
+Epoch: 34/50 | Loss: 0.16579, Accuracy: 96.00%, Precision: 0.96, Recall: 0.96, F1 score: 0.96
+Epoch: 35/50 | Batch: 0/13 | BatchLoss: 0.07997
+Epoch: 35/50 | Batch: 10/13 | BatchLoss: 0.13125
+Epoch: 35/50 | Loss: 0.12697, Accuracy: 97.38%, Precision: 0.98, Recall: 0.97, F1 score: 0.97
+Epoch: 36/50 | Batch: 0/13 | BatchLoss: 0.10181
+Epoch: 36/50 | Batch: 10/13 | BatchLoss: 0.16238
+Epoch: 36/50 | Loss: 0.15892, Accuracy: 95.88%, Precision: 0.96, Recall: 0.96, F1 score: 0.96
+Epoch: 37/50 | Batch: 0/13 | BatchLoss: 0.08656
+Epoch: 37/50 | Batch: 10/13 | BatchLoss: 0.10767
+Epoch: 37/50 | Loss: 0.11451, Accuracy: 97.38%, Precision: 0.98, Recall: 0.97, F1 score: 0.97
+Epoch: 38/50 | Batch: 0/13 | BatchLoss: 0.05512
+Epoch: 38/50 | Batch: 10/13 | BatchLoss: 0.07850
+Epoch: 38/50 | Loss: 0.08175, Accuracy: 98.50%, Precision: 0.98, Recall: 0.99, F1 score: 0.98
+Epoch: 39/50 | Batch: 0/13 | BatchLoss: 0.03187
+Epoch: 39/50 | Batch: 10/13 | BatchLoss: 0.09516
+Epoch: 39/50 | Loss: 0.09690, Accuracy: 97.75%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 40/50 | Batch: 0/13 | BatchLoss: 0.04049
+Epoch: 40/50 | Batch: 10/13 | BatchLoss: 0.09165
+Epoch: 40/50 | Loss: 0.08681, Accuracy: 97.88%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 41/50 | Batch: 0/13 | BatchLoss: 0.08123
+Epoch: 41/50 | Batch: 10/13 | BatchLoss: 0.06816
+Epoch: 41/50 | Loss: 0.07039, Accuracy: 98.38%, Precision: 0.99, Recall: 0.98, F1 score: 0.98
+Epoch: 42/50 | Batch: 0/13 | BatchLoss: 0.04397
+Epoch: 42/50 | Batch: 10/13 | BatchLoss: 0.06665
+Epoch: 42/50 | Loss: 0.06809, Accuracy: 98.12%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 43/50 | Batch: 0/13 | BatchLoss: 0.04136
+Epoch: 43/50 | Batch: 10/13 | BatchLoss: 0.05567
+Epoch: 43/50 | Loss: 0.05299, Accuracy: 99.00%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 44/50 | Batch: 0/13 | BatchLoss: 0.01796
+Epoch: 44/50 | Batch: 10/13 | BatchLoss: 0.06054
+Epoch: 44/50 | Loss: 0.05884, Accuracy: 98.75%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 45/50 | Batch: 0/13 | BatchLoss: 0.03610
+Epoch: 45/50 | Batch: 10/13 | BatchLoss: 0.04809
+Epoch: 45/50 | Loss: 0.06358, Accuracy: 98.75%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 46/50 | Batch: 0/13 | BatchLoss: 0.02602
+Epoch: 46/50 | Batch: 10/13 | BatchLoss: 0.10851
+Epoch: 46/50 | Loss: 0.09478, Accuracy: 97.75%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 47/50 | Batch: 0/13 | BatchLoss: 0.16152
+Epoch: 47/50 | Batch: 10/13 | BatchLoss: 0.07669
+Epoch: 47/50 | Loss: 0.08469, Accuracy: 97.88%, Precision: 0.98, Recall: 0.98, F1 score: 0.98
+Epoch: 48/50 | Batch: 0/13 | BatchLoss: 0.04869
+Epoch: 48/50 | Batch: 10/13 | BatchLoss: 0.07963
+Epoch: 48/50 | Loss: 0.07318, Accuracy: 98.75%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Epoch: 49/50 | Batch: 0/13 | BatchLoss: 0.02211
+Epoch: 49/50 | Batch: 10/13 | BatchLoss: 0.06864
+Epoch: 49/50 | Loss: 0.06183, Accuracy: 98.50%, Precision: 0.99, Recall: 0.98, F1 score: 0.98
+Epoch: 50/50 | Batch: 0/13 | BatchLoss: 0.03953
+Epoch: 50/50 | Batch: 10/13 | BatchLoss: 0.02850
+Epoch: 50/50 | Loss: 0.03159, Accuracy: 99.38%, Precision: 0.99, Recall: 0.99, F1 score: 0.99
+Test loss: 3.59306, Test acc: 40.00%Test Precison: 0.43, Test Recall: 0.4, Test F1: 0.3692911255411256
+10

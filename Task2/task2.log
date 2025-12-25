@@ -1,0 +1,59 @@
+Starting modules.sh
+Shell: bash
+Sourcing /usr/share/modules/init/bash
+Finished modules.sh
+Epoch: 1/50 | Loss: 4.20167| CER: 0.9686
+Epoch: 2/50 | Loss: 4.14033| CER: 0.9656
+Epoch: 3/50 | Loss: 4.04974| CER: 0.9413
+Epoch: 4/50 | Loss: 3.85791| CER: 0.9076
+Epoch: 5/50 | Loss: 3.54204| CER: 0.8438
+Epoch: 6/50 | Loss: 3.13313| CER: 0.7783
+Epoch: 7/50 | Loss: 2.69535| CER: 0.7060
+Epoch: 8/50 | Loss: 2.26412| CER: 0.6391
+Epoch: 9/50 | Loss: 1.87019| CER: 0.5871
+Epoch: 10/50 | Loss: 1.54366| CER: 0.5400
+Epoch: 11/50 | Loss: 1.26154| CER: 0.5050
+Epoch: 12/50 | Loss: 1.02526| CER: 0.4776
+Epoch: 13/50 | Loss: 0.83349| CER: 0.4564
+Epoch: 14/50 | Loss: 0.67340| CER: 0.4368
+Epoch: 15/50 | Loss: 0.55024| CER: 0.4272
+Epoch: 16/50 | Loss: 0.44666| CER: 0.4155
+Epoch: 17/50 | Loss: 0.35828| CER: 0.4144
+Epoch: 18/50 | Loss: 0.30032| CER: 0.4008
+Epoch: 19/50 | Loss: 0.24484| CER: 0.3938
+Epoch: 20/50 | Loss: 0.20346| CER: 0.3997
+Epoch: 21/50 | Loss: 0.17716| CER: 0.4079
+Epoch: 22/50 | Loss: 0.15041| CER: 0.3907
+Epoch: 23/50 | Loss: 0.13398| CER: 0.3892
+Epoch: 24/50 | Loss: 0.13505| CER: 0.3808
+Epoch: 25/50 | Loss: 0.13319| CER: 0.3966
+Epoch: 26/50 | Loss: 0.12773| CER: 0.3889
+Epoch: 27/50 | Loss: 0.12283| CER: 0.3863
+Epoch: 28/50 | Loss: 0.09737| CER: 0.3749
+Epoch: 29/50 | Loss: 0.07264| CER: 0.3708
+Epoch: 30/50 | Loss: 0.04701| CER: 0.3611
+Epoch: 31/50 | Loss: 0.03237| CER: 0.3521
+Epoch: 32/50 | Loss: 0.02157| CER: 0.3521
+Epoch: 33/50 | Loss: 0.02221| CER: 0.3688
+Epoch: 34/50 | Loss: 0.47334| CER: 0.4549
+Epoch: 35/50 | Loss: 0.30879| CER: 0.3784
+Epoch: 36/50 | Loss: 0.09088| CER: 0.3416
+Epoch: 37/50 | Loss: 0.03591| CER: 0.3296
+Epoch: 38/50 | Loss: 0.01944| CER: 0.3238
+Epoch: 39/50 | Loss: 0.01226| CER: 0.3240
+Epoch: 40/50 | Loss: 0.00928| CER: 0.3219
+Epoch: 41/50 | Loss: 0.00752| CER: 0.3214
+Epoch: 42/50 | Loss: 0.00633| CER: 0.3234
+Epoch: 43/50 | Loss: 0.00539| CER: 0.3232
+Epoch: 44/50 | Loss: 0.00506| CER: 0.3240
+Epoch: 45/50 | Loss: 0.00438| CER: 0.3236
+Epoch: 46/50 | Loss: 0.00381| CER: 0.3241
+Epoch: 47/50 | Loss: 0.00348| CER: 0.3238
+Epoch: 48/50 | Loss: 0.00296| CER: 0.3242
+Epoch: 49/50 | Loss: 0.00692| CER: 0.4826
+Epoch: 50/50 | Loss: 1.00817| CER: 0.3936
+Traceback (most recent call last):
+  File "/mnt/sdb/users/kja8586/precog/task2.py", line 227, in <module>
+    train_val(model, hardTrainLoader, hardTestLoader, device, opy, mode='else')
+                                                              ^^^
+NameError: name 'opy' is not defined. Did you mean: 'opt'?
