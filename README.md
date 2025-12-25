@@ -1,34 +1,70 @@
-# Can you break the CAPTCHA
+````markdown
+# Can You Break the CAPTCHA?
 
-## Project overview
-Here there are three tasks:
-Task0 : Synthetic data generation
-Task1 : Closed-set classification
-Task2 : Open-set image to text generation
+## 📌 Project Overview
+This project consists of **three tasks** focused on CAPTCHA understanding and generation:
 
-This repository contain all the code files that have been used to complete the tasks
+- **Task0:** Synthetic data generation  
+- **Task1:** Closed-set classification  
+- **Task2:** Open-set image-to-text generation  
 
-## Repo structure
+This repository contains all the code files used to complete the above tasks.
+
+---
+
+## 📂 Repo Structure
+
+```text
 PrecogTask/
-│── Task0/           Notebook used for data generation
-│── Task1/           Script,code and log files for classification task
-│── Task2/           Script,code and log files for generation task
-│── README.md        Project documentation
-│── crnn_final.pth   Task2 saved model
+│── Task0/           # Notebook used for synthetic data generation
+│── Task1/           # Scripts, code, and log files for classification task
+│── Task2/           # Scripts, code, and log files for generation task
+│── README.md        # Project documentation
+│── crnn_final.pth   # Saved model for Task2
+````
 
-## How to run the project
+---
 
-### 1. Clone the repository
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/kja8586/PrecogTask.git
-### 2. Navigate to the repository
-cd PrecogTask
-### For Task0
-Step1 : Upload the notebook present in the Task0 folder to google drive.
-Step2 : Run the first cell of the notebook and then restart session as we need some downgraded modules.
-Step3 : For generation of Hard Set and Bonus Set make sure you also upload fonts and background folder into you drive make give the correct path
-Step4 : Now run all cell you will get all three dataset.
+```
 
-### For Task1 and Task2
-If you have any HPC or local sever then replace task1 with the compatible script and then submit the script else give just run the files using
+### 2️⃣ Navigate to the Repository
+
+```bash
+cd PrecogTask
+```
+
+### ▶️ Running Task0 (Synthetic Data Generation)
+
+1. Upload the notebook in **Task0/** to **Google Drive**.
+2. Run the **first cell**, then **restart the session** (some downgraded modules are required).
+3. For **Hard Set** and **Bonus Set**, upload the **fonts** and **background** folders to Drive and update paths in the notebook.
+4. Run all cells to generate all datasets.
+
+### ▶️ Running Task1 and Task2
+
+* If using an **HPC or local server**, replace the scripts with compatible versions and submit.
+* Otherwise, run locally:
+
+```bash
 python Task1/task1.py
 python Task2/task2.py
+```
+
+---
+
+## 📝 Notes
+
+* Ensure all required dependencies are installed before execution.
+* The trained model for Task2 is provided as `crnn_final.pth`.
+
+---
+
+## 👤 Author
+
+* GitHub: [https://github.com/kja8586](https://github.com/kja8586)
